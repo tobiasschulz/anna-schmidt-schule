@@ -1,0 +1,312 @@
+#LyX 1.6.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Wendepunkte
+\end_layout
+
+\begin_layout Standard
+Betrachtet man die Graphen einer Funktion 
+\begin_inset Formula $f$
+\end_inset
+
+ und dessen Ableitung 
+\begin_inset Formula $f'$
+\end_inset
+
+, so fällt auf, dass sich dort ein Links-rechts-Wendepunkt befindet, wo
+ das Maximum der Ableitung zu sehen ist.
+ An der Stelle, an der ein Rechts-links-Wendepunkt existiert, befindet sich
+ das Minimum.
+ Daher muss man nach den Extremwerten der ersten Ableitung suchen, wenn
+ man die Wendepunkte der Originalfunktion sucht.
+ An den Extremwerten ist die Steigung, also der Funktionswert der zweiten
+ Ableitung, 0.
+\end_layout
+
+\begin_layout Subsection*
+Das notwendige Kriterium für Wendepunkte
+\end_layout
+
+\begin_layout Standard
+Die Stelle 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+ ist ein Wendepunkt der Funktion 
+\begin_inset Formula $f$
+\end_inset
+
+, wenn 
+\begin_inset Formula $f$
+\end_inset
+
+ an der Stelle 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+ zweimal differenzierbar ist und 
+\begin_inset Formula $f''(x_{w})=0$
+\end_inset
+
+ gilt.
+\end_layout
+
+\begin_layout Subsection*
+Das hinreichende Kriteritum für Wendepunkte (I)
+\end_layout
+
+\begin_layout Standard
+Die Funktion 
+\begin_inset Formula $f$
+\end_inset
+
+ sei in einer Umgebung von 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+ dreimal differenzierbar.
+\end_layout
+
+\begin_layout Standard
+Gilt 
+\begin_inset Formula $f''(x_{w})=0$
+\end_inset
+
+ und 
+\begin_inset Formula $f'''(x_{w})\neq0$
+\end_inset
+
+, so liegt an der Stelle 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+ein Wendepunkt von f.
+\end_layout
+
+\begin_layout Standard
+Genauer:
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $f'''(x_{w})<0$
+\end_inset
+
+ 
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+ Links-rechts-Wendepunkt
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $f'''(x_{w})>0$
+\end_inset
+
+ 
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+ Rechts-links-Wendepunkt
+\end_layout
+
+\begin_layout Subsection*
+Das hinreichende Kriteritum für Wendepunkte (II)
+\end_layout
+
+\begin_layout Standard
+Das erste hinreichende Kriterium versagt seinen Dienst, wenn 
+\begin_inset Formula $f''(x_{w})=0$
+\end_inset
+
+ und auch 
+\begin_inset Formula $f'''(x_{w})=0$
+\end_inset
+
+ gilt.
+\end_layout
+
+\begin_layout Standard
+Die Funktion 
+\begin_inset Formula $f$
+\end_inset
+
+ sei in einer Umgebung von 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+zweimal differenzierbar und es sei 
+\begin_inset Formula $f''(x_{w})=0$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Wenn dann die zweite Ableitung 
+\begin_inset Formula $f''$
+\end_inset
+
+an der Stelle 
+\begin_inset Formula $x_{w}$
+\end_inset
+
+ einen Vorzeichenwechsel hat, so liegt dort eine Wendestelle von f.
+\end_layout
+
+\begin_layout Standard
+Genauer:
+\end_layout
+
+\begin_layout Enumerate
+Vorzeichenwechsel von 
+\begin_inset Formula $+$
+\end_inset
+
+nach 
+\begin_inset Formula $-$
+\end_inset
+
+
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+Links-rechts-Wendepunkt
+\end_layout
+
+\begin_layout Enumerate
+Vorzeichenwechsel von 
+\begin_inset Formula $-$
+\end_inset
+
+ nach 
+\begin_inset Formula $+$
+\end_inset
+
+
+\begin_inset Formula $\Longrightarrow$
+\end_inset
+
+Rechts-links-Wendepunkt
+\end_layout
+
+\begin_layout Subsection*
+Beispiel: S.
+ 182 Nr.
+ 5 a)
+\end_layout
+
+\begin_layout Subsubsection*
+1.
+ Ableitungen bestimmen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f(x)=\frac{1}{8}x³-\frac{3}{8}x²$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f'(x)=\frac{3}{8}x^{2}-\frac{3}{4}x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f''(x)=\frac{3}{4}x-\frac{3}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+2.
+ Notwendige Bedingung
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f''(x)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $0=\frac{3}{4}x-\frac{3}{4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+3.
+ Hinreichende Bedingung
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f'''(x)=\frac{3}{4}\Longrightarrow$
+\end_inset
+
+Rechts-links-Wendepunkt
+\end_layout
+
+\end_body
+\end_document

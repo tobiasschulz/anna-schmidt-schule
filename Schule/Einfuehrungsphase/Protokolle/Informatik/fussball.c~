@@ -1,0 +1,586 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+
+int main()
+ { 
+	printf("Willkommen bei dem Fussballtipper!\n");
+	  int Punkte_Spieler1;
+	  Punkte_Spieler1 = 0;
+
+	  int Punkte_Spieler2;
+	  Punkte_Spieler2 = 0;
+
+	  int Credits_Spieler1;
+	  Credits_Spieler1 = 0;
+
+	  int Credits_Spieler2;
+	  Credits_Spieler2 = 0;
+
+    while (1) 
+	{
+        printf("\nWaehlen sie eine der folgenden Mannschaften durch \neingeben der vorhergehenden Nummer:\n\n");
+        printf("1.Eintracht Frankfurt\n2.Schalke 04\n3.Hoffenheim\n4.Bayern Muenchen\n");
+        //es wird die Nummer der Mannschaft eingegeben
+        printf("Nummer eingeben:");
+        int Mannschaft1;
+            scanf("%d", &Mannschaft1);
+        
+        int atk1;
+        int def1;
+		if (Mannschaft1 > 4)
+		{
+			printf("Diese Mannschaft gibt es nicht, du Doofi!!\n");
+			continue;
+		}
+        if (Mannschaft1 == 1)
+        {
+                          atk1=2;
+                          def1=4;
+                          printf("Sie haben Eintracht Frankfurt gewaehlt!\n\n");
+        }
+        if (Mannschaft1 == 2)
+        {
+                          atk1=2;
+                          def1=4;
+                          printf("Sie haben Schalke 04 gewaehlt!\n\n");
+        }
+        if (Mannschaft1 == 3)
+        {
+                          atk1=2;
+                          def1=4;
+                          printf("Sie haben Hoffenheim gewaehlt!\n\n");
+        }
+        if (Mannschaft1 == 4)
+        {
+                          atk1=2;
+                          def1=4;
+                          printf("Sie haben Bayern Muenchen gewaehlt!\n\n");
+        }
+        
+        //naechste Rechnung.............................................................
+        printf("\nWaehlen sie eine der folgenden Mannschaften als Gegner durch \neingeben der vorhergehenden Nummer:\n\n");
+        printf("1.Eintracht Frankfurt\n2.Schalke 04\n3.Hoffenheim\n4.Bayern Muenchen\n");
+        printf("Nummer eingeben:");
+        int Mannschaft2;
+            scanf("%d", &Mannschaft2);
+        int atk2;
+        int def2;
+		
+		if (Mannschaft2 > 4)
+		{
+			printf("Diese Mannschaft gibt es nicht, du Doofi!!\n");
+			continue;
+		}
+        if (Mannschaft2 == 1)
+        {
+                          atk2=2;
+                          def2=4;
+                          printf("Sie haben Eintracht Frankfurt gewaehlt!\n\n");
+        }
+        if (Mannschaft2 == 2)
+        {
+                          atk2=2;
+                          def2=4;
+                          printf("Sie haben Schalke 04 gewaehlt!\n\n");
+        }
+        if (Mannschaft2 == 3)
+        {
+                          atk2=2;
+                          def2=4;
+                          printf("Sie haben Hoffenheim gewaehlt!\n\n");
+        }
+        if (Mannschaft2 == 4)
+        {
+                          atk2=2;
+                          def2=4;
+                          printf("Sie haben Bayern Muenchen gewaehlt!\n\n");
+        }                 
+        
+        if (Mannschaft1 == Mannschaft2)
+        {
+                      printf("Das geht nicht!!!\n\n");
+                      continue;
+        }
+                
+        
+        //wettannahme
+		int Stand1;
+		int Stand2;
+        int Ergebnis1_Spieler1;
+        int Ergebnis2_Spieler1;
+        int Ergebnis1_Spieler2;
+        int Ergebnis2_Spieler2;
+		int Variable1;
+        int Variable2;
+        int Variable_Spielerausfall1;
+        int Variable_Spielerausfall2;
+		int Endergebnis1;
+		int Endergebnis2;
+		int Spielerabzug1;
+		int Spielerabzug2;
+		int Regen;
+		int Regenabzug;
+		int Regenstaerkevariable;
+		int Dopingplus_Mannschaft1_Spieler1;
+		int Dopingplus_Mannschaft2_Spieler1;
+		int Dopingplus_Mannschaft1_Spieler2;
+		int Dopingplus_Mannschaft2_Spieler2;
+		int Sabotageminus_Mannschaft1_Spieler1;
+		int Sabotageminus_Mannschaft2_Spieler1;
+		int Sabotageminus_Mannschaft1_Spieler2;
+		int Sabotageminus_Mannschaft2_Spieler2;
+		char Antwort1[999];
+		int Antwort2;
+		int Aktionswahl_Spieler1;
+		int Aktionswahl_Spieler2;
+		int domansp1;
+		int domansp2;
+		int manmansp1;
+		int manmansp2;
+        printf ("Spieler1:Setzen sie ihre Wette:\n\n");
+        scanf ("%d", &Ergebnis1_Spieler1);
+		printf(":");
+		scanf("%d", &Ergebnis2_Spieler1);
+        
+        printf ("Spieler2:Setzen sie ihre Wette:\n\n");
+        scanf ("%d", &Ergebnis1_Spieler2);
+		printf(":");
+		scanf("%d", &Ergebnis2_Spieler2);
+        
+		Stand1 = def2-atk1;
+        if (Stand1 < 0)
+        {
+                      Stand1 = 0;
+        }
+        //Ergebnis1 = def2-atk1 < 0 ? 0 : def2-atk1;
+        Stand2 = def1-atk2;
+        if (Stand2 < 0)
+        {
+                      Stand2 = 0;
+        }
+
+		if(Credits_Spieler1 > 0)
+		{
+		printf ("Spieler1: Wollen sie das Spiel manipulieren?\nja oder nein?\n\n");
+		scanf ("%d", &Antwort1);
+
+		if (0 == strcmp(Antwort1, "ja"))
+		{
+			printf ("Was wollen sie machen? Geben sie die Nummer der Aktion ein:\n1. Dopen (kosten: 500 Credits)\n2. Sabotieren (kosten: 500 Credits)\n");
+			scanf ("%d", &Aktionswahl_Spieler1);
+			
+			if (Aktionswahl_Spieler1 == 1)
+			{
+				printf ("Moechten sie 1. Mannschaft1 oder 2. Mannschaft2 dopen??\n");
+				scanf ("%d", &domansp1);
+
+				if (domansp1 == 1)
+				{
+					Dopingplus_Mannschaft1_Spieler1 =  1;
+					Credits_Spieler1 = Credits_Spieler1 - 500;
+					printf ("Mannschaft1 wurde gedopt!!\n");
+				}
+
+				if (domansp1 == 2)
+				{
+					Dopingplus_Mannschaft2_Spieler1 = 1;
+					Credits_Spieler1 = Credits_Spieler1 - 500;
+					printf ("Mannschaft2 wurde gedopt!!\n");
+				}
+			}
+
+			if ( Aktionswahl_Spieler1 == 2)
+			{
+			printf ("Welche Mannschaft wollen sie manipulieren??\n1. Mannschaft1\n2. Mannschaft2");
+			scanf ("%d", &manmansp1);
+			if ( manmansp1 == 1)
+				{
+					Sabotageminus_Mannschaft1_Spieler1 = 1;
+					Credits_Spieler1 = Credits_Spieler1 - 500;
+					printf ("Mannschaft1 wurde manupuliert!\n");
+				}
+			if ( manmansp1 == 2)
+				{
+					Sabotageminus_Mannschaft2_Spieler1 = 1;
+					Credits_Spieler1 = Credits_Spieler1 - 500;
+					printf ("Mannschaft2 wurde manupuliert!\n");
+				}
+			}
+			else
+				{
+					Sabotageminus_Mannschaft1_Spieler1 = 0;
+					Sabotageminus_Mannschaft2_Spieler1 = 0;
+					Dopingplus_Mannschaft1_Spieler1 = 0;
+					Dopingplus_Mannschaft2_Spieler1 = 0;
+				}
+		}
+
+		if (strcmp(Antwort1, "ja"))
+		{
+			printf ("Sie haben Nein gewaelt.\n");
+			Sabotageminus_Mannschaft1_Spieler1 = 0;
+			Sabotageminus_Mannschaft2_Spieler1 = 0;
+			Dopingplus_Mannschaft1_Spieler1 = 0;
+			Dopingplus_Mannschaft2_Spieler1 = 0;
+		}
+		}
+		else
+		{
+			Sabotageminus_Mannschaft1_Spieler1 = 0;
+			Sabotageminus_Mannschaft2_Spieler1 = 0;
+			Dopingplus_Mannschaft1_Spieler1 = 0;
+			Dopingplus_Mannschaft2_Spieler1 = 0;
+		}
+		if ( Credits_Spieler2 > 0)
+		{
+		printf ("Spieler2: Wollen sie das Spiel manipulieren?\nja oder nein?\n\n");
+		scanf ("%d", &Antwort2);
+
+		if (Antwort2 == 1)
+		{
+			printf ("Was wollen sie machen? Geben sie die Nummer der Aktion ein:\n1. Dopen (kosten: 500 Credits)\n2. Sabotieren (kosten: 500 Credits)\n");
+			scanf ("%d", &Aktionswahl_Spieler2);
+			if (Aktionswahl_Spieler2 == 1)
+			{
+				printf ("Moechten sie Mannschaft1 oder Mannschaft2 dopen??\n");
+				scanf ("%d", &domansp2);
+
+				if (domansp2 == 1)
+				{
+					Dopingplus_Mannschaft1_Spieler2 = 1;
+					Credits_Spieler2 = Credits_Spieler2 - 500;
+					printf ("Mannschaft1 wurde gedopt!!\n");
+				}
+
+				if (domansp2 == 2)
+				{
+					Dopingplus_Mannschaft2_Spieler2 = 1;
+					Credits_Spieler2 = Credits_Spieler2 - 500;
+					printf ("Mannschaft2 wurde gedopt!!\n");
+				}
+				else
+				{
+					printf ("Ungueltige Eningabe!!!");
+					Sabotageminus_Mannschaft1_Spieler1 = 0;
+					Sabotageminus_Mannschaft2_Spieler1 = 0;
+					Dopingplus_Mannschaft1_Spieler1 = 0;
+					Dopingplus_Mannschaft2_Spieler1 = 0;
+				}
+					
+				if (Aktionswahl_Spieler2)
+				{
+					printf ("Moechten sie 1. Mannschaft1 oder 2. Mannschaft2 dopen??\n");
+					scanf ("%d", &manmansp2);
+					if ( manmansp2 == 1)
+					{
+						Sabotageminus_Mannschaft1_Spieler2 = 1;
+						Credits_Spieler2 = Credits_Spieler2 - 500;
+						printf ("Sie haben Mannschaft1 manipuliert!\n");
+					}
+					if ( manmansp2 == 2)
+					{
+						printf ("Sie haben Mannschaft2 manipuliert!\n");
+						Sabotageminus_Mannschaft2_Spieler2 = 1;
+						Credits_Spieler2 = Credits_Spieler2 - 500;
+					}
+					else
+					{
+						printf ("Ungueltige Eingabe!!!");
+						Sabotageminus_Mannschaft1_Spieler1 = 0;
+						Sabotageminus_Mannschaft2_Spieler1 = 0;
+						Dopingplus_Mannschaft1_Spieler1 = 0;
+						Dopingplus_Mannschaft2_Spieler1 = 0;
+					}
+				}
+			}
+		}
+		if (Antwort2 != 1)
+		{
+			printf ("Sie haben Nein gewaelt!\n");
+			Sabotageminus_Mannschaft1_Spieler2 = 0;
+			Sabotageminus_Mannschaft2_Spieler2 = 0;
+			Dopingplus_Mannschaft1_Spieler2 = 0;
+			Dopingplus_Mannschaft2_Spieler2 = 0;
+		}
+		}
+		else
+		{
+			Sabotageminus_Mannschaft1_Spieler2 = 0;
+			Sabotageminus_Mannschaft2_Spieler2 = 0;
+			Dopingplus_Mannschaft1_Spieler2 = 0;
+			Dopingplus_Mannschaft2_Spieler2 = 0;
+		}
+		srand(time(NULL));
+        Variable1 = rand()%3;
+		Variable2 = rand()%3;
+        Variable_Spielerausfall1 = rand()%8;
+        Variable_Spielerausfall2 = rand()%8;
+		Regen = rand()%17;
+		Regenstaerkevariable = rand()%2 + 1;
+
+		if (Variable_Spielerausfall1 > 4)
+        {
+                                     Spielerabzug1 = 1;
+									  if (Mannschaft1 == 1)
+									{
+										printf("Es gab einen Ausfall fuer Eintracht Frankfurt\n\n");
+									}
+									else if (Mannschaft1 == 2)
+									{
+										printf("Es gab einen Ausfall fuer Schalke 04\n\n");
+									}
+									else if (Mannschaft1 ==3)
+									{
+										printf("Es gab einen Ausfall fuer Hoffenheim\n\n");
+									}
+									else
+									{
+										printf("Es gab einen Ausfall fuer Bayern Muenchen\n\n");
+									}
+        }
+        else 
+        {
+             Spielerabzug1 = 0;
+        }
+        
+
+        if (Variable_Spielerausfall2 > 4)
+        {
+               Spielerabzug2 = 1;
+                                     if (Mannschaft2 == 1)
+									{
+										printf("Es gab einen Ausfall fuer Eintracht Frankfurt\n\n");
+									}
+									else if (Mannschaft2 == 2)
+									{
+										printf("Es gab einen Ausfall fuer Schalke 04\n\n");
+									}
+									else if (Mannschaft2 ==3)
+									{
+										printf("Es gab einen Ausfall fuer Hoffenheim\n\n");
+									}
+									else
+									{
+										printf("Es gab einen Ausfall fuer Bayern Muenchen\n\n");
+									}
+		}
+		else
+		{
+			Spielerabzug2 = 0;
+		}
+
+		if (Regen > 10)
+		{
+			Regenabzug = Regenstaerkevariable;
+			if (Regenstaerkevariable == 1)
+			{
+				printf("Es regnete schwach.\n");
+			}
+			else
+			{
+				printf("Es regnete stark!\n");
+			}
+		}
+		else
+		{
+			Regenabzug = 0;
+		}
+
+
+		Endergebnis1 = ((((Stand1) * (Variable1) - Variable2 - Spielerabzug1 - Regenabzug) - Sabotageminus_Mannschaft1_Spieler1) - Sabotageminus_Mannschaft1_Spieler2) + Dopingplus_Mannschaft1_Spieler1 + Dopingplus_Mannschaft1_Spieler2;
+		Endergebnis2 = ((((Stand2) * (Variable2) - Variable1 - Spielerabzug2 - Regenabzug) - Sabotageminus_Mannschaft2_Spieler1) - Sabotageminus_Mannschaft2_Spieler2) + Dopingplus_Mannschaft2_Spieler1 + Dopingplus_Mannschaft2_Spieler2;
+
+        if (Endergebnis1 < 0)
+        {
+                      Endergebnis1 = 0;
+        }
+		
+        if (Endergebnis2 < 0)
+        {
+                      Endergebnis2 = 0;
+        }
+
+
+		if (Endergebnis1 >5)
+		{
+			Endergebnis1 -= 2;
+		}
+
+		if (Endergebnis2 >5)
+		{
+			Endergebnis2 = Endergebnis2 - 2;
+		}
+
+		if (Endergebnis1 >4)
+		{
+			Endergebnis1 = Endergebnis1 - 1;
+		}
+		if (Endergebnis2 >4)
+		{
+			Endergebnis2 = Endergebnis2 - 1;
+		}
+		
+        int Differenzergebnis;
+		int Differenz_sp1;
+		int Differenz_sp2;
+		int Gewinner;
+
+
+		Differenzergebnis = Endergebnis1 - Endergebnis2;
+		Differenz_sp1 = Ergebnis1_Spieler1 - Ergebnis2_Spieler1;
+		Differenz_sp2 = Ergebnis1_Spieler2 - Ergebnis2_Spieler2;
+		if ( Differenzergebnis > 0)
+		{
+			if ( Differenz_sp1 > 0)
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 + 1;
+				Credits_Spieler1 = Credits_Spieler1 + 200;
+			}
+			else
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 - 1;
+			}
+		}
+
+		if ( Differenzergebnis < 0)
+		{
+			if ( Differenz_sp1 < 0)
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 + 1;
+				Credits_Spieler1 = Credits_Spieler1 + 200;
+			}
+			else
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 - 1;
+			}
+		}
+
+		if ( Differenzergebnis == 0)
+		{
+			if ( Differenz_sp1 == 0)
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 + 1;
+				Credits_Spieler1 = Credits_Spieler1 + 200;
+			}
+			else
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 - 1;
+			}
+		}
+
+
+		if ( Differenzergebnis > 0)
+		{
+			if ( Differenz_sp2 > 0)
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 + 1;
+				Credits_Spieler2 = Credits_Spieler2 + 200;
+			}
+			else
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 - 1;
+			}
+		}
+
+		if ( Differenzergebnis < 0)
+		{
+			if ( Differenz_sp2 < 0)
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 + 1;
+				Credits_Spieler2 = Credits_Spieler2 + 200;
+			}
+			else
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 - 1;
+			}
+		}
+
+		if ( Differenzergebnis == 0)
+		{
+			if ( Differenz_sp2 == 0)
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 + 1;
+				Credits_Spieler2 = Credits_Spieler2 + 200;
+			}
+			else
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 - 1;
+			}
+		}
+
+		if (Ergebnis1_Spieler1 == Endergebnis1)
+		{
+			if (Ergebnis2_Spieler1 == Endergebnis2)
+			{
+				Punkte_Spieler1 = Punkte_Spieler1 + 2;
+				Credits_Spieler1 = Credits_Spieler1 + 1000;
+			}
+		}
+
+		if (Ergebnis1_Spieler2 == Endergebnis1)
+		{
+			if (Ergebnis2_Spieler2 == Endergebnis2)
+			{
+				Punkte_Spieler2 = Punkte_Spieler2 + 2;
+				Credits_Spieler2 = Credits_Spieler2 + 1000;
+			}
+		}
+
+		if (Endergebnis1 > Endergebnis2)
+		{
+			if (Endergebnis1 > Endergebnis2)
+			{
+				Gewinner = Mannschaft1;
+			}
+			else 
+			{
+				Gewinner = Mannschaft2;
+			}
+		}
+		else if(Endergebnis1 == Endergebnis2)
+		{
+			Gewinner = 0;
+		}
+		else
+		{
+			Gewinner = 0;
+		}
+
+			if (Gewinner == 0)
+			{
+				printf("Das Spiel endete: %i:%i\n\n", Endergebnis1, Endergebnis2);
+			}
+			else if (Gewinner ==1)
+			{
+				printf("Das Spiel endete: %i:%i fuer Eintracht Frankfurt\n\n", Endergebnis1, Endergebnis2);
+			}
+			else if (Gewinner == 2)
+			{
+				printf("Das Spiel endete: %i:%i fuer Schalke 04\n\n", Endergebnis1, Endergebnis2);
+			}
+			else if (Gewinner ==3)
+			{
+				printf("Das Spiel endete: %i:%i fuer Hoffenheim\n\n", Endergebnis1, Endergebnis2);
+			}
+			else
+			{
+				printf("Das Spiel endete: %i:%i fuer Bayern Muenchen\n\n", Endergebnis1, Endergebnis2);
+			}
+		printf("Spielerpunkte:\nSpieler1:%i\nSpieler2:%i\n\n", Punkte_Spieler1, Punkte_Spieler2);
+		printf("Spielercredits:\nSpieler1:%i\nSpieler2:%i\n\n", Credits_Spieler1, Credits_Spieler2);
+		int beenden;
+		printf("Wollen sie dass Spiel beenden?? Dann druecken sie die 1.\nWenn nicht druecken sie irgenteine Taste.\n\n");
+		scanf ("%d", &beenden);
+		if ( beenden == 1)
+		{
+			break;
+		}
+		else
+		{}
+        system("PAUSE");
+    }	
+	return 0;
+}

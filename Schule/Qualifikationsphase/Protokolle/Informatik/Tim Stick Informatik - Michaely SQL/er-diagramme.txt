@@ -1,0 +1,6 @@
+Die Zeichen m, n, 1 kommen immer direkt an die Entität, "muss" und "kann" an die Relation.
+Die Pfeile werden immer ohne Pfeilspitzen gemacht, auch zu den Attributen.
+Die Übersichtstabelle wird als Relation (Raute) dargestellt, nicht als eigene Entität.
+Bei "kann" gibt es einen schwachen Schlüssel, bei "muss" einen starken Schlüssel.
+Schwache Entitäten sind mit einem doppelten Rechteck darzustellen.
+Fremdschlüssel werden nicht unterstrichen, sondern nur Primärschlüssel werden unterstrichen dargestellt.

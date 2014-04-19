@@ -1,0 +1,103 @@
+%% LyX 1.6.2 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[12pt,english]{article}
+\usepackage{mathptmx}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage[letterpaper]{geometry}
+\geometry{verbose,tmargin=1cm,bmargin=2cm,lmargin=1cm,rmargin=1cm,headheight=1cm,headsep=1cm,footskip=1cm}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+\usepackage{textcomp}
+\usepackage{relsize}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\DeclareRobustCommand{\lyxmathsym}[1]{\ifmmode\begingroup\def\b@ld{bold}
+  \def\rmorbf##1{\ifx\math@version\b@ld\textbf{##1}\else\textrm{##1}\fi}
+  \mathchoice{\hbox{\rmorbf{#1}}}{\hbox{\rmorbf{#1}}}
+  {\hbox{\smaller[2]\rmorbf{#1}}}{\hbox{\smaller[3]\rmorbf{#1}}}
+  \endgroup\else#1\fi}
+
+
+\makeatother
+
+\usepackage{babel}
+
+\begin{document}
+
+\section*{Wendepunkte}
+
+Betrachtet man die Graphen einer Funktion $f$ und dessen Ableitung
+$f'$, so fällt auf, dass sich dort ein Links-rechts-Wendepunkt befindet,
+wo das Maximum der Ableitung zu sehen ist. An der Stelle, an der ein
+Rechts-links-Wendepunkt existiert, befindet sich das Minimum. Daher
+muss man nach den Extremwerten der ersten Ableitung suchen, wenn man
+die Wendepunkte der Originalfunktion sucht. An den Extremwerten ist
+die Steigung, also der Funktionswert der zweiten Ableitung, 0.
+
+
+\subsection*{Das notwendige Kriterium für Wendepunkte}
+
+Die Stelle $x_{w}$ ist ein Wendepunkt der Funktion $f$, wenn $f$
+an der Stelle $x_{w}$ zweimal differenzierbar ist und $f''(x_{w})=0$
+gilt.
+
+
+\subsection*{Das hinreichende Kriteritum für Wendepunkte (I)}
+
+Die Funktion $f$ sei in einer Umgebung von $x_{w}$ dreimal differenzierbar.
+
+Gilt $f''(x_{w})=0$ und $f'''(x_{w})\neq0$, so liegt an der Stelle
+$x_{w}$ein Wendepunkt von f.
+
+Genauer:
+\begin{enumerate}
+\item $f'''(x_{w})<0$ $\Longrightarrow$ Links-rechts-Wendepunkt
+\item $f'''(x_{w})>0$ $\Longrightarrow$ Rechts-links-Wendepunkt
+\end{enumerate}
+
+\subsection*{Das hinreichende Kriteritum für Wendepunkte (II)}
+
+Das erste hinreichende Kriterium versagt seinen Dienst, wenn $f''(x_{w})=0$
+und auch $f'''(x_{w})=0$ gilt.
+
+Die Funktion $f$ sei in einer Umgebung von $x_{w}$zweimal differenzierbar
+und es sei $f''(x_{w})=0$.
+
+Wenn dann die zweite Ableitung $f''$an der Stelle $x_{w}$ einen
+Vorzeichenwechsel hat, so liegt dort eine Wendestelle von f.
+
+Genauer:
+\begin{enumerate}
+\item Vorzeichenwechsel von $+$nach $-$$\Longrightarrow$Links-rechts-Wendepunkt
+\item Vorzeichenwechsel von $-$ nach $+$$\Longrightarrow$Rechts-links-Wendepunkt
+\end{enumerate}
+
+\subsection*{Beispiel: S. 182 Nr. 5 a)}
+
+
+\subsubsection*{1. Ableitungen bestimmen}
+
+$f(x)=\frac{1}{8}x\lyxmathsym{\textthreesuperior}-\frac{3}{8}x\lyxmathsym{\texttwosuperior}$
+
+$f'(x)=\frac{3}{8}x^{2}-\frac{3}{4}x$
+
+$f''(x)=\frac{3}{4}x-\frac{3}{4}$
+
+
+\subsubsection*{2. Notwendige Bedingung}
+
+$f''(x)=0$
+
+$0=\frac{3}{4}x-\frac{3}{4}$
+
+$x=1$
+
+
+\subsubsection*{3. Hinreichende Bedingung}
+
+$f'''(x)=\frac{3}{4}\Longrightarrow$Rechts-links-Wendepunkt
+\end{document}

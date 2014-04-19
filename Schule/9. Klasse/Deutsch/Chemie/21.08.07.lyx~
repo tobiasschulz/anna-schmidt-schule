@@ -1,0 +1,485 @@
+#LyX 1.5.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrartcl
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize default
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+Chemie-Unterricht 07/08
+\end_layout
+
+\begin_layout Enumerate
+Elementgruppen: Halogene
+\end_layout
+
+\begin_layout Enumerate
+Schalenmodell
+\end_layout
+
+\begin_layout Enumerate
+Bildung von Salzen, Ionen
+\end_layout
+
+\begin_layout Enumerate
+Molküle (Wasser!)
+\end_layout
+
+\begin_layout Enumerate
+Korrosion (evtl.)
+\end_layout
+
+\begin_layout Enumerate
+Säuren, Laugen
+\end_layout
+
+\begin_layout Section*
+Sicherheit im Chemieunterricht
+\end_layout
+
+\begin_layout Itemize
+Schutzbrille!!
+\end_layout
+
+\begin_layout Itemize
+Versuchsvorschriften einhalten!
+\end_layout
+
+\begin_layout Itemize
+Chemikalien nur nach Absprache wegschütten!
+\end_layout
+
+\begin_layout Itemize
+Nicht essen, nicht trinken!
+\end_layout
+
+\begin_layout Itemize
+Versuchsaufbau in der MITTE vom Tisch!
+\end_layout
+
+\begin_layout Itemize
+Fluchttür hinten im Raum benutzen!
+\end_layout
+
+\begin_layout Section*
+Aggregatzustände in Reaktionsgleichungen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features>
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" rightline="true" width="0">
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Abkürzung
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Bedeutung
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+s
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+solid, fest
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+l
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+liquid, flüssig
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+g
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+gaseous, gasförmig
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+aq
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+aqueous, wässrige Lösung
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\SpecialChar \-
+
+\end_layout
+
+\begin_layout Standard
+z.B.
+ KOH Kaliumhydroxid
+\end_layout
+
+\begin_layout Standard
+pH > 7 bis 14: alkalische Lösung, Lauge
+\end_layout
+
+\begin_layout Section*
+Ionengleichungen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $KOH\:\underrightarrow{H_{2}O}\: K^{+}(aq)+OH^{-}(aq)$
+\end_inset
+
+
+\newline
+
+\begin_inset Formula $Ca(OH)_{2}\:\underrightarrow{H_{2}O}\: Ca^{2+}(aq)+2OH^{-}(aq)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Halogene, VIII.
+ Hauptgruppe
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features>
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" rightline="true" width="0">
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Elementsymbol
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Name
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+F
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Fluor
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Cl
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Chlor
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Br
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Brom
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+J/I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Jod/Iod
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+At
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Astat
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Versuch: Herstellung von Chlorgas im Labor
+\end_layout
+
+\begin_layout Paragraph
+Chemikalien:
+\end_layout
+
+\begin_layout Standard
+Kaliumpermanganat, konzentrierte Salzsäure (37% Chlorwasserstoff) (= HCL
+ (Chlorkohlenwasserstoff), in Wasser gelöst)
+\end_layout
+
+\begin_layout Paragraph
+Durchführung:
+\end_layout
+
+\begin_layout Standard
+Salzsäure wird langsam auf Kaliumpermanganat getropft, das Chlorgas wird
+ im Standzylinder aufgefangen
+\end_layout
+
+\begin_layout Paragraph*
+Beobachtung:
+\end_layout
+
+\begin_layout Standard
+Bei Salzsäurezugabe fängt das Kaliumpermanganat an zu blubbern.
+ Es entsteht ein Gas.
+ Das Gas ist gelb.
+ Das Gas ist schwerer als Luft.
+\end_layout
+
+\begin_layout Paragraph*
+Erklärung:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $KMnO_{4}$
+\end_inset
+
+= Kaliumpermanganat
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $2KMnO_{4}+16HCL\rightarrow2MnCl_{2}+2KCL+8H_{2}O+5Cl_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Versuch: Chlorgas reagiert mit Pflanzenfarbstoffen
+\end_layout
+
+\begin_layout Standard
+Farbstoffe werden gebleicht...
+\end_layout
+
+\begin_layout Paragraph*
+Beobachtungen: 
+\end_layout
+
+\begin_layout Standard
+Farbstoffe werden gebleicht.
+\end_layout
+
+\begin_layout Paragraph*
+Ergebnis:
+\end_layout
+
+\begin_layout Standard
+Chlor ist nicht selbst für die bleichende Wirkung verantwortlich.
+\end_layout
+
+\begin_layout Section*
+Versuch: Chlorgas wird in Wasser geleitet
+\end_layout
+
+\begin_layout Standard
+Am Anfang schlägt der Indikator um (gelb 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+sauer)! Halogene und Wasser ergeben eine Säure.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Marginal
+status open
+
+\begin_layout Standard
+04.09.07
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

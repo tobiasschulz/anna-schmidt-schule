@@ -1,0 +1,372 @@
+#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrbook
+\language english
+\inputencoding auto
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Praktikumsbericht
+\end_layout
+
+\begin_layout Author
+Tobias Schulz
+\end_layout
+
+\begin_layout Date
+19.01.09 bis 30.01.09
+\end_layout
+
+\begin_layout Section*
+Persönliche Erwartungen und Zielsetzungen
+\end_layout
+
+\begin_layout Standard
+An mein zweiwöchiges Praktikum im Julie-Roger-Haus stellte ich die Erwartung,
+ dass ich dort mehr über die Art und Weise des Umgangs mit alten Menschen
+ erfahren würde.
+ Da ich während den Ferien immer einen Teil der Zeit bei meiner 85-jährigen
+ Großtante in Darmstadt bin, wusste ich, dass mir ein solches Praktikum
+ viel eher liegen würde als eines in einem Kindergarten.
+\end_layout
+
+\begin_layout Section*
+Das Julie-Roger-Haus
+\end_layout
+
+\begin_layout Standard
+Das Julie-Roger-Haus liegt im nördlichen Teil von Frankfurt, in Eckenheim,
+ in Mitten von Grünanlagen am Ende einer wenig befahrenen Sackgasse in einem
+ ruhigen Wohngebiet, wurde 1963 erbaut und 1988 renoviert.
+ Es verfügt über etwas mehr als hundert Heimplätze und kann mit Möbeln der
+ Bewohnern ergänzt werden.
+\end_layout
+
+\begin_layout Standard
+Eckenheim hat ca.
+ 14100 Einwohner und ist 2347 km² groß, liegt zwischen Dornbusch/Eschersheim
+ im Westen, dem Frankfurter Berg im Norden, Preungesheim im Osten und dem
+ Nordend im Süden.
+\end_layout
+
+\begin_layout Standard
+Der Träger ist der Frankfurter Verband für Alten- und Behindertenpflege
+ e.V., de größte Anbieter sozialer Dienste in Frankfurt am Main.
+ Zu dem Frankfurter Verband gehören über 2000 Mitarbeiter, wovon ca.
+ 60 im Julie-Roger-Haus arbeiten.
+ Zwanzig Ehrenamtliche Mitarbeiter helfen ebenfalls gegentlich mit.
+\end_layout
+
+\begin_layout Standard
+Der Frankfurter Verband wurde 1918 gegründet, um daas Elend der Alten und
+ Behinderten nach dem Krieg zu mildern.
+ Er bietet Wohnanlagen, Beratung, ambulante Pflege, hauswirtschaftliche
+ Versorgung, Essen auf Rädern, Hausnotrufe, 6 Pflegeheime, ein Zentrum für
+ körperlich Schwerbehinderte, stationäre, Tages- und Kurzzeitpflege, Rehabilitat
+ionszentren, Krankengymnastik, ein Bildungszentrum für Altenpflege, Altenclubs,
+ Begegnungsstätten, Internetcafes und Kreativwerkstätten an.
+\end_layout
+
+\begin_layout Standard
+Das Julie-Roger-Haus hat insgesamt eine angenehme Atmosphäre und bietet
+ jeden Monat einige Veranstaltungen an, wie einen 
+\begin_inset Quotes eld
+\end_inset
+
+Literaturkreis
+\begin_inset Quotes erd
+\end_inset
+
+ mit Frau G., eine 
+\begin_inset Quotes eld
+\end_inset
+
+Spielrunde
+\begin_inset Quotes erd
+\end_inset
+
+ mit Herr L.
+ und Frau L., einen Waffelnachmittag in der Begegnungsstätte und 
+\begin_inset Quotes eld
+\end_inset
+
+Dämmerschoppen
+\begin_inset Quotes erd
+\end_inset
+
+ mit Frau X., die u.A.
+ im 
+\begin_inset Quotes eld
+\end_inset
+
+Hausblättche
+\begin_inset Quotes erd
+\end_inset
+
+, das allen Bewohnern zur Verfügung steht, nachgelesen werden können; eine
+ weitere große Veranstaltung ist das Sommerfest, was im 
+\begin_inset Quotes eld
+\end_inset
+
+Hausblättche
+\begin_inset Quotes erd
+\end_inset
+
+ September 2008 beschrieben wird.
+ Katholische und evangelische Gottesdienste finden ebenfalls regelmäßig
+ statt.
+\end_layout
+
+\begin_layout Subsection*
+Leitbild des Julie-Roger-Hauses
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+Wir beraten, betreuen, pflegen und versorgen pflegebedürftige und behinderte
+ Menschen unabhängig von sozialer und kultureller Herkunft.
+ Die Zufriedenheit dieser Kunden und Kundinnen mit unseren Dienstleistungen
+ ist für uns oberstes Gebot.
+\end_layout
+
+\begin_layout Standard
+Wir arbeiten bedürfnisorientiert und ganzheitlich aktivierend nach dem Pflegepro
+zess.
+\end_layout
+
+\begin_layout Standard
+Dabei sind wir fachlich professionell in Planung, Umsetzung, Durchführung,
+ Bewertung und Kontrolle.
+\end_layout
+
+\begin_layout Standard
+Wir tragen besondere Verantwortung für unser persönliches, pflegerisches,
+ soziales und umweltbezogenes Handeln durch unsere Nähe zu den Kunden und
+ Kundinnen und unseren Einfluss auf die Befriedigung seiner alltäglichen
+ Bedürfnisse und unsere Selbstständigkeit inder Begegnung mit den Kunden.
+\end_layout
+
+\begin_layout Standard
+Wir planen und entscheiden sehr bewusst und reflektiert in Anbetracht der
+ hohen Abhängigkeit der Kunden von unserer Arbeit.
+ Wir achten dabei auf uns und andere Kellegen und Mitarbeiter.
+\end_layout
+
+\begin_layout Standard
+Wir sind kooperationsbereit und arbeiten im Team, da die Befriedigung der
+ Bedürfnisse unserer Kunden nicht von uns oder einzelnen von uns alleine,
+ sondern nur in Zusammeenarbeit mit anderen erreicht werden kann.
+\end_layout
+
+\begin_layout Standard
+Wir sind innovativ und entwickeln Zukunftsperspektiven für die Arbeit mit
+ Pflegebedürftigen, um unsere Professionalität für unsere Kunden aufrechterhalte
+n zu können.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Erfahrungsberichte
+\end_layout
+
+\begin_layout Subsection*
+Ein typischer Tag
+\end_layout
+
+\begin_layout Standard
+Der 21.
+ Januar war für mich ein typischer Tag im Julie-Roger-Haus.
+ Zu der Arbeit der Sozialarbeiter dort gehört, mit den Bewohnern zu sprechen
+ und ihre Interessen und wichtige Ereignisse in ihrem Leben zu dokumentieren.
+ Wichtige Informationen über die Bewohner sind die Umstände, in denen sie
+ aufgewachsen sind, Traditionen, die in der Familie gepflegt wurden, Hobbys
+ und Pflichten im Haushalt, die soziale Umgebung und erschütternde Ereignisse
+ wie Kriege oder schwere Krankheiten.
+ Sprichwörter und Geschichten, die die Bewohner erlebt haben oder die ihnen
+ erzählt wurden, helfen auch Kontakt zu ihnen aufzubauen.
+\end_layout
+
+\begin_layout Standard
+Nachdem die meisten Bewohner des Hauses gefrühstückt hatten, ging ich zu
+ Frau S., die sich erst seit wenigen Tagen wegen Demenz im Julie-Roger-Haus
+ befand, um ein solches Biografiegespräch zu führen.
+ Als sie sich aber an ihre bisherige Wohnung erinnerte, erinnerte sie sich
+ auch an ihre momentane finanzielle Situation; ihre Rente war zu wenig,
+ um das Heim zu bezahlen, daher wurde der Rest vom Staat bezahlt und sie
+ bekam eine Art 
+\begin_inset Quotes eld
+\end_inset
+
+Taschengeld
+\begin_inset Quotes erd
+\end_inset
+
+, das allerdings aufgrund der Demenzerkrankung bei der Heimleitung aufbewahrt
+ wurde.
+ Sie schimpfte über die Pfleger und anderen Angestellten des Heimes, weil
+ sie zum Friseur gehen wollte, aber nur etwas Kleingeld in der Tasche hatte.
+ Daher ging ich später mit ihr zum Büro der Heimleitung und sagte ihr, dass
+ sie dort Geld abholen könne, wenn sie, wie an diesem Tag, beispielsweise
+ zum Friseur gehen wolle.
+\end_layout
+
+\begin_layout Subsection*
+Ein besonderer Tag
+\end_layout
+
+\begin_layout Standard
+Am 28.
+ Januar kam ich um acht Uhr im Julie-Roger-Haus an.
+ Bis Mittags um zwölf Uhr war ich bei den Angestellten und Bewohnern in
+ der Begegnungsstätte, die bis vor 2 Jahren Kantine oder Speisesaal hieß
+ und nach Erzählungen auch so aussah.
+ Heute ist sie aber ganz anders eingerichtet, so dass sich die Bewohner
+ dort viel eher wohlfühlen und auch wesentlich länger als nur zum Essen
+ dort bleiben.
+\end_layout
+
+\begin_layout Standard
+An diesem Tag hatte ich, anders als sonst, fast nur mit Demenzerkrankten
+ und nicht mit einer Mischung von Bewohnern zu tun.
+ Probleme gab es beim Frühstück viele, beispielsweise ließ eine Frau jedes
+ dritte ihrer Brötchenstückchen auf den Boden fallen, weil sie ihre Hände
+ kaum mehr bewegen konnte.
+ Eine Andere sagte erst, wie abwesend, einige Male 
+\begin_inset Quotes eld
+\end_inset
+
+Wo ist denn nun die Butter, wo ist sie denn, wo ist denn die Butter?
+\begin_inset Quotes erd
+\end_inset
+
+, bevor sie die Butter auf ihrem Teller erkannte.
+\end_layout
+
+\begin_layout Standard
+Dann veranstalteten die Betreuer ein Ballspiel mit 9 Bewohnern auf dem Tisch:
+ Drei Tische mit je ~1,5m x ~1,5m wurden in eine Reihe geschoben, der Ball
+ wurde dann auf dem Tisch von Person zu Person gerollt.
+ Die auftretenden Probleme waren teilweise die selben wie beim Frühstück.
+ Die schonsehr demente Frau wiederholte immer die Worte 
+\begin_inset Quotes eld
+\end_inset
+
+Wo ist denn das Bällchen, wo ist denn das Bällchen, wo denn?
+\begin_inset Quotes erd
+\end_inset
+
+, und erkannte es nur, wenn man es ihr in die Hand legte.
+ Eine Andere konnte die Hände zwar bewegen, nur wenn der Ball neben ihren
+ Rollstuhl fiel, konnte sie natürlich nicht aufstehen, sonst hätte sie keinen
+ Rollstuhl gebraucht.
+ Eine Andere hat den Ball immer durch die Gegend geworfen, weil sie fast
+ zu motiviert war, allerdings waren alle 9 Bewohner in das Spiel integriert
+ und machten mit; daher kann ich mir auch andere gemeinsame Aktivitäten
+ vorstellen, wo es auch so gut klappen würde, allerdings müssen dazu die
+ jeweiligen Eigenheiten beachtet werden, wie beispielsweise, dass eine Frau
+ ihr Glas immer in beiden Händen hielt.
+ Alle Gläser müssen aber weggeräumt werden, bevor man Ballspielen konnte,
+ daher musste man ihr erst erklären, dass das Glas im Weg steht und an einen
+ festen Platz gestellt werden muss.
+ Auch sollte man bei solchen Aktivitäten eher lauter sprechen, da einerseits
+ eine Halbtaube dabei war und andererseits manche das Gesprochene zwar verstande
+n, bei deutlichen Worten aber besser aufnahmen.
+\end_layout
+
+\begin_layout Section*
+Reflexion
+\end_layout
+
+\begin_layout Standard
+Besonders aufgefallen ist mir, dass es den meisten Bewohnern sehr wichtig
+ ist, dass man sie wertschätzend begrüßt und mit ihrem Namen anspricht.
+ Besonders bei stärker an Demenz erkrankten ist es wichtig, dass sie sich
+ akzeptiert fühlen.
+ Am Anfang kam ich öfters durcheinander, weil manche Personen relativ schnell
+ reden können und dies auch tun, aber nur langsam gesprochene Sätze verstehen.
+ Andere verstehen auch in normaler Geschwindigkeit gesprochene Sätze, reden
+ aber selbst sehr langsam.
+\end_layout
+
+\begin_layout Standard
+Es ist auch hilfreich zu wissen, dass beispielsweise über das Ansehen von
+ Bildern der Heimat der Bewohner Zugang zu ihnen gefunden werden kann.
+ Manche, wie Frau O., mit der ich am 22.
+ Januar sprach, interessieren sich auch allgemein für Naturbilder, können
+ sich aber beispielsweise nicht mehr an Ehemann und Beruf erinnern.
+ Frau O.
+ dachte, sie wäre einer Lehrerin für Naturkunde gewesen (vgl.
+ Landschaftsbilder), war es aber nicht; auch hatte sie vergessen, dass sie
+ verheiratet war.
+\end_layout
+
+\begin_layout Standard
+Je nach den Interessen der Bewohner sind die jeweiligen die Kontaktaufnahmemögli
+chkeiten unterschiedlich.
+ Mit Sprichwörtern und Redewendungen kann man auch eine Art Gedächtnistraining
+ veranstalten, bei dem die Bewohner den zweiten Teil der Sprichwörter erraten
+ sollen, wenn man ihnen den ersten sagt.
+\end_layout
+
+\begin_layout Section*
+Fazit
+\end_layout
+
+\begin_layout Standard
+Insgesamt haben sich meine Erwartungen vollständig erfüllt.
+ Was ich überraschend fand, war, dass viele Bewohner des Julie-Roger-Hauses
+ sich einem Besuch gegenüber so offen zeigten, was wahrscheinlich besonders
+ daran liegt, dass manche keine Angehörigen (mehr) haben.
+ Besonders wichtig ist neben dem Kontakt mit anderen Bewohnern auch Abwechslung,
+ die leider durch Aktivitäten im Heim nur bedingt gegeben ist; schließlich
+ hat man ja doch immer mit den selben Leuten zu tun.
+\end_layout
+
+\end_body
+\end_document

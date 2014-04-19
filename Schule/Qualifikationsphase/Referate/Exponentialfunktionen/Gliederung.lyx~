@@ -1,0 +1,241 @@
+#LyX 1.6.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options false
+\language english
+\inputencoding auto
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Exponentialfunktionen
+\end_layout
+
+\begin_layout Section*
+Definition (3min)
+\end_layout
+
+\begin_layout Section*
+Beispiele - Wiederholung
+\end_layout
+
+\begin_layout Itemize
+S.
+ 180: Funktionsbeschreibung Funktion links:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $f(t)=200*1,6^{t}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Zins:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $t=500€$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $p\%=6\%$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $K2=20000€$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+(Anwendung Logarithmus -> Erklären?)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section*
+Differentiation von Exponentialfunktionen
+\end_layout
+
+\begin_layout Itemize
+S.
+ 184:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Zeichnerische Lösung
+\end_layout
+
+\begin_layout Itemize
+Rechnerische Lösung
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Eulersche Zahl
+\end_layout
+
+\begin_layout Itemize
+S.
+ 186:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wie kommt man darauf
+\end_layout
+
+\begin_layout Itemize
+Definition
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+S.
+ 187:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Bestimmung der Zahl e (näherungsweise)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+S.
+ 188:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Verhalten von Exponentialfunktionen allgemein
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Die natürliche Logarithmusfunktion
+\end_layout
+
+\begin_layout Itemize
+S.
+ 189
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $ln(e^{x})=x$
+\end_inset
+
+, 
+\begin_inset Formula $e^{lnx}=x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Zeichung der Umkehrfunktion der Exponentialfunktion
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Formula $\longrightarrow$
+\end_inset
+
+ natürlicher Logarithmus
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Ableitung und Stammfunktion von 
+\begin_inset Formula $f(x)=a^{x}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+S.
+ 190:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+zwei Aufgaben: Ableiten, Aufleiten <----
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+S.
+ 192: Erklären:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Satz VIII.2
+\end_layout
+
+\begin_layout Itemize
+Satz VIII.3
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Beispielaufgaben
+\end_layout
+
+\end_body
+\end_document

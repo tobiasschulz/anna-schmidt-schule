@@ -1,0 +1,1277 @@
+#LyX 1.5.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrartcl
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language danish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Trigonometrie
+\end_layout
+
+\begin_layout Section
+Sätze
+\end_layout
+
+\begin_layout Subsection
+Satz 1 bis 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha)=\cos(-\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(90-\alpha)=\cos(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(90+\alpha)=-\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(-\alpha)=-\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\newpage
+
+\end_layout
+
+\begin_layout Subsection
+Additionstheoreme (Reihenfolge=Beweise)
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\cos(\alpha-\beta)=\cos(\alpha)\cos(\beta)-\sin(\alpha)\sin(\beta)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Standard
+\begin_inset Caption
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename beweis-cos-x-minus-y_graph-1.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{1}AP_{2}\: rechtwinklig$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{2}A=x_{1}-x_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{1}A=y_{1}-y_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=(y_{1}-y_{2})^{2}+(x_{1}-x_{2})^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=y_{1}^{2}-2y_{1}y_{2}+y_{2}^{2}\;+\; x_{1}^{2}-2x_{1}x_{2}+x_{2}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=x_{1}^{2}+y_{1}^{2}+x_{2}^{2}+y_{2}^{2}\;-\;2*(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=1+1\;-\;2*(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Standard
+\begin_inset Caption
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename beweis-cos-x-minus-y_graph-2.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=\overline{P_{1}A}^{2}+\overline{P_{2}A}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Definition: 
+\begin_inset Formula $\varphi=\alpha-\beta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=\sin^{2}(\varphi)+(1-\cos(\varphi))^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+2.
+ Binomische Formel: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=\sin^{2}(\varphi)+1-2\cos(\varphi)+\cos^{2}(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=2-2\cos(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ergebnis:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=2-2\cos(\alpha-\beta)=2-2(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+ | - 2 | : (-2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=\cos(\alpha-\beta)=x_{1}x_{2}+y_{1}y_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\cos(\alpha+\beta)=\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha+\beta)=\cos(\alpha-(-\beta))$
+\end_inset
+
+
+\hfill
+
+\begin_inset Quotes ald
+\end_inset
+
++
+\begin_inset Quotes ard
+\end_inset
+
+ entspricht 
+\begin_inset Quotes ald
+\end_inset
+
+- -
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha+\beta)=\cos(\alpha)\cos(-\beta)+\sin(\alpha)\sin(-\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz aus 1.2.1
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha+\beta)=\cos(\alpha)\cos(\beta)-\sin(\alpha)\sin(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 1 und 4
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\sin(\alpha+\beta)=\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Satz 3:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\varphi+90°)=-\sin(\varphi)$
+\end_inset
+
+
+\hfill
+| * (-1)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $-\cos(\varphi+90°)=\sin(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset Formula $\varphi=\alpha+\beta$
+\end_inset
+
+
+\hfill
+Definition (wegen Übersicht)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+\beta)=-\cos(\alpha+\beta+90°)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+\beta)=-\cos(\alpha)\cos(\beta+90°)+\sin(\alpha)\sin(\beta+90°)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+\beta)=-\cos(\alpha)*-\sin(\beta)+\sin(\alpha)\cos(-\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 2 und 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+\beta)=\cos(\alpha)\sin(\beta)+\sin(\alpha)\cos(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 1
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\sin(\alpha-\beta)=\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha-\beta)=\sin(\alpha+(-\beta))$
+\end_inset
+
+
+\hfill
+
+\begin_inset Quotes ald
+\end_inset
+
++
+\begin_inset Quotes ard
+\end_inset
+
+ entspricht 
+\begin_inset Quotes ald
+\end_inset
+
++ -
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+(-\beta))=\cos(-\beta)*\sin(\alpha)+\cos(\alpha)*\sin(-\beta)$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(\alpha+(-\beta))=\cos(\beta)\sin(\alpha)-\cos(\alpha)\sin(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung Satz 1 und 4
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\tan(\alpha)+\tan(\beta)}{1-\tan(\alpha)*\tan(\beta)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\sin(\alpha+\beta)}{\cos(\alpha+\beta)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\tan$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\dfrac{\sin}{\cos}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der bisher bewiesenen Sätze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Nun wird im Zähler und im Nenner durch 
+\begin_inset Formula $\cos(\alpha)*\cos(\beta)$
+\end_inset
+
+ dividiert, da in dem zu beweisenden Term im Nenner ein 
+\begin_inset Formula $1-$
+\end_inset
+
+ steht.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+Division im Zähler und im Nenner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}+\dfrac{\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)}{\cos(\alpha)*\cos(\beta)}-\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\dfrac{\sin(\beta)}{\cos(\beta)}+\dfrac{\sin(\alpha)}{\cos(\alpha)}}{1-\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+Kürzen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha+\beta)=\dfrac{\tan(\beta)+\tan(\alpha)}{1-\tan(\beta)*\tan(\alpha)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\dfrac{\sin}{\cos}$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\tan$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\tan(\alpha)+\tan(\beta)}{1+\tan(\alpha)*\tan(\beta)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\sin(\alpha-\beta)}{\cos(\alpha-\beta)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\tan$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\dfrac{\sin}{\cos}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der bisher bewiesenen Sätze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Nun wird im Zähler und im Nenner durch 
+\begin_inset Formula $\cos(\alpha)*\cos(\beta)$
+\end_inset
+
+ dividiert, da in dem zu beweisenden Term im Nenner ein 
+\begin_inset Formula $1+$
+\end_inset
+
+ steht.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+Division im Zähler und im Nenner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}-\dfrac{\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)}{\cos(\alpha)*\cos(\beta)}+\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\dfrac{\sin(\beta)}{\cos(\beta)}-\dfrac{\sin(\alpha)}{\cos(\alpha)}}{1+\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}$
+\end_inset
+
+
+\hfill
+Kürzen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\tan(\alpha-\beta)=\dfrac{\tan(\beta)+\tan(\alpha)}{1+\tan(\beta)*\tan(\alpha)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\dfrac{\sin}{\cos}$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\tan$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\cot(\alpha)*\cot(\beta)-1}{\cot(\beta)-\cot(\alpha)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\cos(\alpha+\beta)}{\sin(\alpha+\beta)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\cot$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\dfrac{\cos}{\sin}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der bisher bewiesenen Sätze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Nun wird im Zähler und im Nenner durch 
+\begin_inset Formula $\sin(\alpha)*\sin(\beta)$
+\end_inset
+
+ dividiert, da in dem zu beweisenden Term im Zähler ein 
+\begin_inset Formula $-1$
+\end_inset
+
+ steht.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}$
+\end_inset
+
+
+\hfill
+Division im Zähler und im Nenner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)}{\sin(\alpha)*\sin(\beta)}-\dfrac{\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}+\dfrac{\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha+\beta)=\dfrac{\cot(\alpha)*\cot(\beta)-1}{\cot(\alpha)+\cot(\beta)}$
+\end_inset
+
+
+\hfill
+Kürzen
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\cot(\alpha)*\cot(\beta)+1}{\cot(\beta)-\cot(\alpha)}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\cos(\alpha-\beta)}{\sin(\alpha-\beta)}$
+\end_inset
+
+
+\hfill
+
+\begin_inset Formula $\cot$
+\end_inset
+
+ entspricht 
+\begin_inset Formula $\dfrac{\cos}{\sin}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der bisher bewiesenen Sätze:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Nun wird im Zähler und im Nenner durch 
+\begin_inset Formula $\sin(\alpha)*\sin(\beta)$
+\end_inset
+
+ dividiert, da in dem zu beweisenden Term im Zähler ein 
+\begin_inset Formula $+1$
+\end_inset
+
+ steht.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}$
+\end_inset
+
+
+\hfill
+Division im Zähler und im Nenner
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)}{\sin(\alpha)*\sin(\beta)}+\dfrac{\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}-\dfrac{\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cot(\alpha-\beta)=\dfrac{\cot(\alpha)*\cot(\beta)+1}{\cot(\alpha)-\cot(\beta)}$
+\end_inset
+
+
+\hfill
+Kürzen
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\sin(2\alpha)=2\sin(\alpha)\cos(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(2\alpha)=\sin(\alpha+\alpha)=\sin(\alpha)\cos(\alpha)+\cos(\alpha)\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(2\alpha)=2*\sin(\alpha)\cos(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\cos(2\alpha)=1-2\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(2\alpha)=\cos(\alpha+\alpha)=\cos(\alpha)\cos(\alpha)-\sin(\alpha)\sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(2\alpha)=\cos^{2}(\alpha)-\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Addition von: 
+\begin_inset Formula $+\sin^{2}(\alpha)-\sin^{2}(\alpha)=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(2\alpha)=\cos^{2}(\alpha)-\sin^{2}(\alpha)+\sin^{2}(\alpha)-\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+
+\begin_inset Formula $\cos^{2}(\alpha)-\sin^{2}(\alpha)+\sin^{2}(\alpha)=1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\begin_inset Formula $\cos(2\alpha)=1-2\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\left|\sin\dfrac{\alpha}{2}\right|=\sqrt{\dfrac{1-\cos(\alpha)}{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gegeben: 
+\begin_inset Formula $\cos(2\alpha)=1-2\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\alpha=2*\dfrac{\alpha}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(2\dfrac{\alpha}{2})=1-2\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha)=1-2\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+|
+\begin_inset Formula $-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha)-1=-2\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+|
+\begin_inset Formula $/(-2)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{\cos(\alpha)-1}{-2}=\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+Umformen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\dfrac{1-\cos(\alpha)}{2}=\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+|Quadratwurzel
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sqrt{\dfrac{1-\cos(\alpha)}{2}}=\left|\sin(\dfrac{\alpha}{2})\right|$
+\end_inset
+
+
+\hfill
+|Quadratwurzel
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\left|\cos\dfrac{\alpha}{2}\right|=\sqrt{\dfrac{1+\cos(\alpha)}{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gegeben: 
+\begin_inset Formula $\cos(2\alpha)=1-2\sin^{2}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\alpha=2*\dfrac{\alpha}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(2\dfrac{\alpha}{2})=1-2\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ersetzen der 
+\begin_inset Quotes ald
+\end_inset
+
+1
+\begin_inset Quotes ard
+\end_inset
+
+, weil:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+1=\cos^{2}(\beta)+\sin^{2}(\beta)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha)=\cos^{2}(\beta)+\sin^{2}(\beta)-2\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\cos(\alpha)=\cos^{2}(\beta)-\sin^{2}(\dfrac{\alpha}{2})$
+\end_inset
+
+
+\hfill
+Weil: 
+\begin_inset Formula $x-2x=-x$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der zuletzt bewiesenen Formel:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+\cos(\alpha)=\cos^{2}(\beta)-\dfrac{1-\cos(\alpha)}{2}\]
+
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Quadrat alleine rechts, weil im zu beweisenden Term eine Quadratwurzel vorkommt:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+\cos(\alpha)+\dfrac{1-\cos(\alpha)}{2}=\cos^{2}(\beta)\]
+
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Gleicher Nenner:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+\dfrac{2\cos(\alpha)+1-\cos(\alpha)}{2}=\cos^{2}(\beta)\]
+
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Zusammenfassen:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+\dfrac{1+\cos(\alpha)}{2}=\cos^{2}(\beta)\]
+
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+Wurzel ziehen:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+\sqrt{\dfrac{1+\cos(\alpha)}{2}}=\cos(\beta)\]
+
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $\sin(3\alpha)=3\sin(\alpha)-4\sin^{3}(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\sin(3\alpha)=\sin(2\alpha+\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=\cos(2\alpha)\sin(\alpha)+\cos(\alpha)\sin(2\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vertauschen, kommutativ:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=\cos(\alpha)\sin(2\alpha)+\cos(2\alpha)\sin(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwendung der letzten beiden Formeln:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=\cos(\alpha)*[2\sin(\alpha)\cos(\alpha)]+\sin(\alpha)*[1-2\sin^{2}(\alpha)]\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Umformen:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=2\sin(\alpha)\cos^{2}(\alpha)+\sin(\alpha)-2\sin^{3}(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ausklammern: (Hintergrund: Es darf kein 
+\begin_inset Quotes ald
+\end_inset
+
+
+\begin_inset Formula $\cos$
+\end_inset
+
+
+\begin_inset Quotes ard
+\end_inset
+
+ vorkommen, nächster Schritt...)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=2\sin(\alpha)\:*\:[\:\cos^{2}(\alpha)\:-\:\sin^{2}(\alpha)\:]\:+\sin(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwenden: 
+\begin_inset Formula $-y=y-2y$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=2\sin(\alpha)\:*\:[\:\cos^{2}(\alpha)\:+\:\sin^{2}(\alpha)\:-\:2\sin^{2}(\alpha)\:]\:+\sin(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anwenden: 
+\begin_inset Formula $1=\cos^{2}(\beta)+\sin^{2}(\beta)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=2\sin(\alpha)\:*\:[\:1\:-\:2\sin^{2}(\alpha)\:]\:+\sin(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=2\sin(\alpha)*1\:-\:4\sin^{3}(\alpha)\:+\sin(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+=3\sin(\alpha)*1\:-\:4\sin^{3}(\alpha)\]
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

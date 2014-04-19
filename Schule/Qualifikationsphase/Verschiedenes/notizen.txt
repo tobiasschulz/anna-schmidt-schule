@@ -1,0 +1,35 @@
+
+d-smolle.server-login.name
+
+SQL:
+	freehal.eve-host.eu
+	freehal
+	diessinger1
+	mysql --host=freehal.eve-host.eu -ufreehal -pdiessinger1 freehal
+
+CPU:
+	87.118.86.29
+	freehal 
+	13648324
+	ssh -C freehal@87.118.86.29
+	root: eeQxJz9Cxt6#+1as
+
+create index server_state_index_1 on result (server_state);
+insert into result_2 select * from result where server_state != 2;
+
+mysql --host=freehal.eve-host.eu -ufreehal -pdiessinger1 freehal -A
+mysqladmin --host=freehal.eve-host.eu -ufreehal -pdiessinger1 processlist
+
+
+
+mysql> update host inner join ausgleich_1_host on host.id = ausgleich_1_host.host set host.total_credit = host.total_credit + 12*c;
+Query OK, 4485 rows affected (1.66 sec)
+Rows matched: 4485  Changed: 4485  Warnings: 0
+
+mysql> update user inner join ausgleich_1_user on user.id = ausgleich_1_user.user set user.total_credit = user.total_credit + 12*c;
+Query OK, 1522 rows affected (2.33 sec)
+Rows matched: 1522  Changed: 1522  Warnings: 0
+
+ALTER TABLE `workunit` ENGINE=InnoDB;
+ALTER TABLE `result` ENGINE=InnoDB;
+

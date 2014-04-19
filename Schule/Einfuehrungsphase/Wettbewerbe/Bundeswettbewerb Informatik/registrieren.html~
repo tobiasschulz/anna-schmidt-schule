@@ -1,0 +1,64 @@
+<h1>Anbieten</h1>
+
+<form>
+<table style="width: 80%;">
+	<tr>
+		<th>Name:</th>
+		<td style="width: 80%;">
+			<input type="text" name="name" value="" style="width: 100%;" />
+		</td>
+	</tr>
+	<tr>
+		<th>Beschreibung:</th>
+		<td style="width: 80%;">
+			<textarea name="description" style="height: 100px; width: 100%;"></textarea>
+		</td>
+	</tr>
+	<tr>
+		<th>Kategorie:</th>
+		<td style="width: 80%;">
+<select name="kategorie">
+<option name='schulbuecher' value='schulbuecher'>Schulb&uuml;cher</option>
+<option name='romane_und_sachbuecher' value='romane_und_sachbuecher'>Romane/Sachb&uuml;cher</option>
+<option name='magazine' value='magazine'>Magazine</option>
+<option name='computer' value='computer'>Computer</option>
+<option name='technik' value='technik'>Technik</option>
+<option name='filme' value='filme'>Filme</option>
+<option name='kleidung_fuer_maenner' value='kleidung_fuer_maenner'>Kleidung f&uuml;r M&auml;nner</option>
+<option name='kleidung_fuer_frauen' value='kleidung_fuer_frauen'>Kleidung f&uuml;r Frauen</option>
+<option name='kurstausch' value='kurstausch'>Kurstausch</option>
+<option name='cds' value='cds'>CDs</option>
+<option name='instrumente' value='instrumente'>Instrumente</option>
+<option name='sammeln' value='sammeln'>Sammeln</option>
+<option name='schreibwaren' value='schreibwaren'>Schreibwaren</option>
+<option name='sonstiges' value='sonstiges'>Sonstiges</option>
+<option name='sportkleidung' value='sportkleidung'>Sportkleidung</option>
+<option name='sportgeraete' value='sportgeraete'>Sportger&auml;te</option>
+</select>
+		</td>
+	</tr>
+	<tr>
+		<th>Preis / Tauschwunsch:</th>
+		<td style="width: 20%;">
+			<input type="text" name="prize" value="" style="width: 20%;" /> (&euro;)
+		</td>
+	</tr>
+	<tr>
+		<th>Benutzername:</th>
+		<td style="width: 80%;">
+			<input type="text" name="person" value="" style="width: 100%;" />
+		</td>
+	</tr>
+	<tr>
+		<th>Passwort:</th>
+		<td style="width: 80%;">
+			<input type="text" name="password" value="" style="width: 100%;" />
+		</td>
+	</tr>
+</table>
+
+<button type="submit" name="anbieten" value="1">
+Absenden
+</button>
+
+</form>

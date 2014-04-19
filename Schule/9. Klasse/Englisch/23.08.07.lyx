@@ -1,0 +1,128 @@
+#LyX 1.5.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrartcl
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize default
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+\begin_inset Marginal
+status open
+
+\begin_layout Standard
+23.08.07
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Unit 1 
+\end_layout
+
+\begin_layout Subsection*
+Vocabulary Practise
+\end_layout
+
+\begin_layout Subsubsection*
+1.
+ False Friends
+\end_layout
+
+\begin_layout Standard
+Find the false friends in these sentences and put in the correct words instead:
+\end_layout
+
+\begin_layout Standard
+I'm hoping to become a new bike for my birthday.
+\newline
+I'm hoping to get a new bike
+ for my birthday.
+\end_layout
+
+\begin_layout Standard
+The path took us richt around the sea and back where we´d started.
+\newline
+The path
+ took us richt around the lake and back where we´d started.
+\end_layout
+
+\begin_layout Standard
+The Rhein is a big stream.
+\newline
+The Rhein is a big river.
+\end_layout
+
+\begin_layout Standard
+Where´s Blackpool on this card of England?
+\newline
+Where´s Blackpool on this map
+ of England?
+\end_layout
+
+\begin_layout Standard
+My cousin Louise is staying by us this week.
+\newline
+My cousin Louise is staying with
+ us this week.
+\end_layout
+
+\begin_layout Standard
+I think your meanings are a bit racist and I just don´t agree with them.
+\newline
+I
+ think your opinions are a bit racist and I just don´t agree with them.
+\end_layout
+
+\begin_layout Standard
+We´ve just bought a new bank to sit on in the garden.
+\newline
+We´ve just bought a
+ new bench to sit on in the garden.
+\end_layout
+
+\begin_layout Standard
+I learned to today´s test all last night.
+\newline
+I learned to today´s test the whole
+ last night.
+\end_layout
+
+\end_body
+\end_document

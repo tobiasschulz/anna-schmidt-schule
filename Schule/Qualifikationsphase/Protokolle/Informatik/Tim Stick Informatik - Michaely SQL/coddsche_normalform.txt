@@ -1,0 +1,6 @@
+Codd´sche Normalform:
+In der 1. Normalform darf in einer Zelle nur eine Information stehen, nicht mehrere.
+In der 2. Normalform muss jdes Nicht-Schlüssel-Attribut vom Primärschlüssel voll funktional abhängig sein, d.h. es gibt unterschiedliche
+Relationen, die man eindeutig zuordnen kann.
+In der 3. Normalform darf man nicht von einem Feld auf das andere schließen dürfen, z.B. darf es nicht Schüler- und Klassenlehrer-Felder geben, 
+die für jeden Schüler einzeln sind, sondern die Klasse muss eindeutig mit dem Klassenlehrer verbunden sein.

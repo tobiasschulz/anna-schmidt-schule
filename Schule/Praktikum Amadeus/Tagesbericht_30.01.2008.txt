@@ -1,0 +1,40 @@
+
+     Tagesbericht 30.01.2008
+
+ 
+ Nachdem ich meine Aufgabe, ein System zum loggen der auf der Vortragsreihe D durchgeführten Aktionen zu erstellen, am
+ Dienstagabend beendet hatte, sollte ich nun die Möglichkeit zum Archivieren der MySQL-Datenbank implementieren.
+ Die Programmiersprache Perl sollte verwendet werden und die Archivierung sollte in die bestehende Implementierung
+ der Vortragsreihe D eingepasst werden.
+
+ Der erste Schritt war, eine neue Datei mit dem Namen "archive.pl" zu erstellen. Die Startdatei "index.pl" musste dazu nicht
+ angepasst werden, da "index.pl" dynamisch den Paramater "value" abfragt. Wurde also als "value" die Bezeichnung "archive"
+ übergeben, führt "index.pl" die Datei "archive" + ".pl", das heisst die Datei "archive.pl" aus.
+
+ Die erste Funktion, die in dieser Datei implementiert werden musste, war "make_dump". "make_dump" liest die gesamten Daten
+ der MySQL-Tabellen
+ 
+   * tab_anmeldung
+   * tab_lecture
+   * tab_statistic
+   * und tab_timeslot
+
+ ein und erzeugt gültigen MySQL-Code, der es in einer Datei, die nach dem Datum benannt wird, abspeichert. Zusätzlich kann
+ der Benutzer im Webbrowser einen Beschreibungstext eingeben. Der Code wird generiert, in dem mit der Funktion
+ "fetchrow_array" jede Zeile einzeln abgerufen wird, die dann jeweils zu SQL-Code verarbeitet wird.
+
+ Die Dateien werden im Verzeichnis "archives" erstellt und haben das folgende Format:
+
+   archive - [Beschreibung] _ [Datum] _ [Zeit] .sql
+
+ Als nächstes kam die Funktion "archive_show", die eine Tabelle in dem bei der Vortragsreihe üblichen Format anzeigt.
+ Der einzige Parameter, der übergeben wird, wird dort "sort_index" genannt und bezeichnet die Spalte, nach der die Tabelle
+ sortiert werden soll. Es existieren die Spalten "Date", "Time", "Description" und "Actions". Unter "Actions" befinden sich
+ für jede Datei die Aktionen "Restore dump" und "Delete dump"; bei beiden Aktionen erscheint vor dem Ausführen eine 
+ Bestätigungsabfrage, die mit Javascript realisiert ist.
+
+ Die Aktion "Delete dump" löscht den MySQL-Dump, während "Restore dump" den gesamten Inhalt der Datei als SQL-Statement
+ ausführt; das ist möglich, weil der Inhalt der Tabelle ja schon bei dem Exportieren so in diese Datei geschrieben wurde, dass
+ die Syntax kompatibel zu MySQL ist.
+
+

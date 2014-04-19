@@ -1,0 +1,501 @@
+#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass article
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family sfdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\spacing single
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Geschichte
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features>
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" rightline="true" width="0">
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Kurssprecher
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Vertreter
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Tim-Niklas Zimmer
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Tobias Schulz
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+16.02.09
+\end_layout
+
+\begin_layout Subsection*
+Bund mit der Reichskirche
+\end_layout
+
+\begin_layout Itemize
+955: Sachsenherzog Otto schloss ein Bündnis mit der Reichskirche:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Bistümer erhielten vermehrt Landschenkungen, die aber nicht in das Kircheneigent
+um übergingen, sondern im Obereigentum des Reiches blieben
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+dadurch gingen die Reichsgebiete in die gut ausgebaute kirchliche Verwaltung
+ über
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+bei Neuwahlen von Bischöfen stellte 
+\begin_inset Quotes eld
+\end_inset
+
+Otto
+\begin_inset Quotes erd
+\end_inset
+
+ zuverlässige Parteigänger zur Wahl auf
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+dadurch wurden die Bistümer des Reiches mit ihm gegenüber treuen Bischöfen
+ besetzt
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+Reformbewegung
+\end_layout
+
+\begin_layout Enumerate
+Aufteilung der Zuständigkeit
+\end_layout
+
+\begin_layout Subsubsection*
+Zweigewaltenlehre
+\end_layout
+
+\begin_layout Standard
+Zwei Bereiche:
+\end_layout
+
+\begin_layout Enumerate
+geistlicher Bereich, in den der Kaiser nicht eingreifen durfte
+\end_layout
+
+\begin_layout Enumerate
+weltlicher Bereich, dem die Vertreter der Kirche Gehorsam schulden
+\end_layout
+
+\begin_layout Standard
+Situation:
+\end_layout
+
+\begin_layout Itemize
+Kirche war noch keine Länderübergreifende Institution mit einem eigenen
+ Verwaltungsapparat
+\end_layout
+
+\begin_layout Itemize
+Papst war vielmehr 
+\series bold
+nur
+\series default
+ Bischof von Rom
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+er galt vielen noch nicht als Oberhaupt der Gesamtkirche
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Mitbestimmungsrecht hinsichtlich der Salbung/Wahl von Erzbischöfen lag bei
+ den Königen
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Bischöfe/Äbte waren Ratgeber und Diplomaten
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+23.02.09
+\end_layout
+
+\begin_layout Subsection*
+Investiturstreit
+\end_layout
+
+\begin_layout Itemize
+Streitigkeit/Schwerpunkte
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Kampf gegen die Laieninvestitur (Einsetzung eines Geistlichen durch einen
+ Laien (=Weltlichen))
+\end_layout
+
+\begin_layout Enumerate
+Kampf gegen die Vergabe von geistlichen Ämtern gegen Zahlung eines Geldbetrages
+\end_layout
+
+\begin_layout Enumerate
+Kampf um die endgültige Durchsetzung des Zölibats
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+02.03.09
+\end_layout
+
+\begin_layout Subsection*
+Aufgabe
+\end_layout
+
+\begin_layout Enumerate
+Bedeutung vom 
+\begin_inset Quotes eld
+\end_inset
+
+Gang von Canossa
+\begin_inset Quotes erd
+\end_inset
+
+ S 125-136
+\end_layout
+
+\begin_layout Enumerate
+Vorherrschendes System in der Landwirtschaft S 137-149
+\end_layout
+
+\begin_layout Subsection*
+Lösung
+\end_layout
+
+\begin_layout Enumerate
+Nachdem der Kaiser Heinrich IV von Papst Gregor mit dem Bann belegt wurde,
+ ging er 1077 nach Canossa, um ihn um die Aufhebung des Bannes zu bitten.
+ Damit galt Heinrich IV aber nicht mehr als Geistlicher, von Gott gewollter
+ Kaiser sondern nur noch als weltlicher Laie.
+ Diese Umorientierung war bedeutend für das Verständnis der geistigen und
+ weltlichen Stellung des Kaisers.
+ Im Jahre 1112 wurde unter Heinrichs Nachfolger Heinrich V und Papst Calixt
+ II eine Lösung für den Investiturstreit gefunden: Die Laieninvestitur wurde
+ verboten und Bischöfe wurden frei gewählt, wenn auch unter Anwesenheit
+ des Königs, der bei einem unklaren Wahlergebnis ein Miitspracherecht hatte.
+ Damit hatte der deutsche Herrscher fast seinem gesamten Einfluss verloren.
+\end_layout
+
+\begin_layout Subsection*
+Gang nach Canossa - Folge der kirchlichen Macht?
+\end_layout
+
+\begin_layout Itemize
+König Heinrich bestreitet den Gang nach Canossa (1077)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ziel
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unterwerfung einer weltlichen Macht gegenüber der kirchlichen Macht
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Heinrich IV.
+ selbst gibt seine eigene Position der Gott-Unmittelbarkeit als Gesalbter
+ des Herrn auf,
+\end_layout
+
+\begin_layout Itemize
+Heinrich ließ sich damit in die Position als Laien zurückdrängen
+\end_layout
+
+\begin_layout Itemize
+Folge:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+die geistliche Macht konnte sich zunehmend verselbstständigen
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection*
+Landwirtschaft: Frondienste
+\end_layout
+
+\begin_layout Standard
+Zwei Aspekte:
+\end_layout
+
+\begin_layout Enumerate
+Grundherrschaft: Herrschaft über Grund, Boden und Bauern
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ebenso auch die Arbeitskraft der Bauern, die das entsprechende Land bearbeitet
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Fronhofsystem:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Mittelpunkt der Fronhöfe: Domänebetrieb 
+\begin_inset Formula $\longrightarrow$
+\end_inset
+
+abhängige selbstständig wirtschaftende Bauern auf dem Land
+\end_layout
+
+\begin_layout Enumerate
+mögliche Eigentümer von Fronhöfen: Könige, Klöster oder Adlige
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+09.03.09
+\end_layout
+
+\begin_layout Subsection*
+Notizen zu den Veränderungen des Menschenbildes
+\end_layout
+
+\begin_layout Standard
+Wiedergeburt des Altertums
+\end_layout
+
+\begin_layout Standard
+-> natürliche Wissbegierde wird wiederentdeckt über das eigene Selbstverständnis
+ des Menschen
+\end_layout
+
+\begin_layout Standard
+-> Entfaltung = Wertschätzung des Menschen im 
+\begin_inset Quotes eld
+\end_inset
+
+Diesseits
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+-> Selbstverständnis/Selbstständigkeit des Menschen -> Vollkommenheit, Perfektio
+n
+\end_layout
+
+\begin_layout Subsection*
+Notizen zu der Stellung der Gelehrten (Renaissance und Humanismus)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename /home/tobias/Dokumente/Schule/Einfuehrungsphase/Protokolle/Geschichte/Stellung der Gelehrten.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Notizen zu der Stellung der Religion in der Frührenaissance
+\end_layout
+
+\begin_layout Itemize
+Trennung des individuellen Glaubensanspruchs von der kirchlichen Hierarchie
+\end_layout
+
+\begin_layout Itemize
+Keine Gefahr für Glauben, trotzdem Stärkung der Glaubensgegner
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Eigener Glauben
+\begin_inset Quotes erd
+\end_inset
+
+: stelle die offizielle Religion bis zur Förmlichkeit
+\end_layout
+
+\begin_layout Itemize
+Quasi die Urphase der Reformation in Europa -> Ursprung in Italien
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Diesseitigkeit
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Prunksucht warf Frage nach Sinn und Zweck des Lebens auf -> Aufforderung
+ zur intensiveren Religionsbefassung
+\end_layout
+
+\begin_layout Subsection*
+Kunst - gewonnene Freiheit
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Fortschritt in der Kunst, b....png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Erweiterung des Wissens
+\end_layout
+
+\begin_layout Subsubsection*
+Vorraussetzung
+\end_layout
+
+\begin_layout Itemize
+Kaum Bildung in der Bevölkerung
+\end_layout
+
+\begin_layout Itemize
+Im 14.
+ Jahrhundert entstanden 
+\begin_inset Quotes eld
+\end_inset
+
+deutsche Schulen
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Bei den Fernhandelskaufleuten kam das Bedürfnis, Vorgänge schriftlich zu
+ fixieren, auf
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Bildungsmonopol - das bis dahin ausschließlich der Klerus besessen hat -
+ ging verloren
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Erfindung des Buchdrucks durch Gutenberg
+\end_layout
+
+\end_body
+\end_document

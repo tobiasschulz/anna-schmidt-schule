@@ -1,0 +1,35 @@
+/* CSS fuer Abiturvorbereitung */
+/* --------------------------- */
+
+/* Ueberschriften */
+h1, h2, h3, h4, h5, h6 { font-family: Arial, sans-serif; color: #000080 }		/* dkl-blau */
+
+/* Allgemein */
+p, td, ul, ol { font-family: Arial, sans-serif; font-size: 11pt; }
+th            { font-family: Arial, sans-serif; color: #000080 }
+strong        { color: #FF0000 }
+var           { font-family: 'Arial Narrow', Arial, sans-serif; font-size: 12pt; 
+				font-style: normal; color: #FF0000 } 					/* Position in Hilfsnavigation */
+body          { background-image: url('img/bgabi1.jpg'); background-repeat: repeat; 
+				background-attachment:fixed }
+cite		  { font-style: italic; font-weight: bold } /* Vektoren */
+sup, sub 	  { font-size: 10pt }
+
+                            
+/* Klassen */
+.eng          { font-family: Arial Narrow, Arial, sans-serif; font-size: 11pt }  /* enge Schrift 12 */
+.strd         { font-family: Arial, sans-serif; font-size: 11pt }				 /* normale Schrift 12 */
+.quell        { font-family: Courier New, monospace; font-size: 11pt }			 /* Quelltext 12 */
+.kl_eng       { font-family: Arial Narrow, Arial, sans-serif; font-size: 10pt }  /* enge Schrift 10 */
+.kl_strd      { font-family: Arial, sans-serif; font-size: 10pt }				 /* normale Schrift 10 */
+.kl_quell     { font-family: Courier New, Courier, monospace; font-size: 10pt }	 /* Quelltext 10 */
+.hline4       { font-family: Arial, sans-serif; font-size: 11pt; color: #000080; font-weight: bold }
+.hline3       { font-family: Arial, sans-serif; font-size: 13pt; color: #000080; font-weight: bold }
+.hline2       { font-family: Arial, sans-serif; font-size: 19pt; color: #000080; font-weight: bold }
+.tblquell     { font-family: Courier New, Courier, monospace; font-size: 11pt; color: #000080; 
+                background-color: #C0C0C0 }
+.tbl_hl       { background-repeat: repeat; background-attachment: fixed; background-color: #FFEFD5 }
+
+/* Verweise */
+a             { font-family:  Arial, sans-serif; font-style: italic; text-decoration: none }
+a:visited     { color: #993300 }

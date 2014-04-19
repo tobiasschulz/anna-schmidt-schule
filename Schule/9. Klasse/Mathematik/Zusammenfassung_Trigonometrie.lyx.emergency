@@ -1,0 +1,455 @@
+#LyX 1.5.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrartcl
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language danish
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Trigonometrie
+\end_layout
+
+\begin_layout Section
+Sätze
+\end_layout
+
+\begin_layout Subsection
+Satz 1 bis 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos\alpha=cos(-\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(90-\alpha)=cos\alpha$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos(90+\alpha)=-sin\alpha$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(-\alpha)=-sin\alpha$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\newpage
+
+\end_layout
+
+\begin_layout Subsection
+Additionstheoreme (Reihenfolge=Beweise)
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $cos(\alpha-\beta)=cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Standard
+\begin_inset Caption
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename beweis-cos-x-minus-y_graph-1.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{1}AP_{2}\: rechtwinklig$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{2}A=x_{1}-x_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P_{1}A=y_{1}-y_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=(y_{1}-y_{2})^{2}+(x_{1}-x_{2})^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=y_{1}^{2}-2y_{1}y_{2}+y_{2}^{2}\;+\; x_{1}^{2}-2x_{1}x_{2}+x_{2}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=x_{1}^{2}+y_{1}^{2}+x_{2}^{2}+y_{2}^{2}\;-\;2*(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=1+1\;-\;2*(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Standard
+\begin_inset Caption
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename beweis-cos-x-minus-y_graph-2.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=\overline{P_{1}A}^{2}+\overline{P_{2}A}^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Definition: 
+\begin_inset Formula $\varphi=\alpha-\beta$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=sin^{2}(\varphi)+(1-cos(\varphi))^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+2.
+ Binomische Formel: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=sin^{2}(\varphi)+1-2cos(\varphi)+cos^{2}(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=2-2cos(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ergebnis:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=2-2cos(\alpha-\beta)=2-2(x_{1}x_{2}+y_{1}y_{2})$
+\end_inset
+
+ | - 2 | : (-2)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $c^{2}=cos(\alpha-\beta)=x_{1}x_{2}+y_{1}y_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\clearpage
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $cos(\alpha+\beta)=cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos(\alpha+\beta)=cos(\alpha-(-\beta))$
+\end_inset
+
+
+\hfill
+
+\begin_inset Quotes ald
+\end_inset
+
++
+\begin_inset Quotes ard
+\end_inset
+
+ entspricht 
+\begin_inset Quotes ald
+\end_inset
+
+- -
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos(\alpha+\beta)=cos(\alpha)cos(-\beta)+sin(\alpha)sin(-\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz aus 1.2.1
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos(\alpha+\beta)=cos(\alpha)cos(\beta)-sin(\alpha)sin(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 1 und 4
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $sin(\alpha+\beta)=cos(\alpha)*sin(\beta)+cos(\beta)*sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Satz 3:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $cos(\varphi+90°)=-sin(\varphi)$
+\end_inset
+
+
+\hfill
+| * (-1)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $-cos(\varphi+90°)=sin(\varphi)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset Formula $\varphi=\alpha+\beta$
+\end_inset
+
+
+\hfill
+Definition (wegen Übersicht)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+\beta)=-cos(\alpha+\beta+90°)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+\beta)=-cos(\alpha)cos(\beta+90°)+sin(\alpha)sin(\beta+90°)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+\beta)=-cos(\alpha)*-sin(\beta)+sin(\alpha)cos(-\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 2 und 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+\beta)=cos(\alpha)sin(\beta)+sin(\alpha)cos(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung von Satz 1
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $sin(\alpha-\beta)=cos(\alpha)*sin(\beta)-cos(\beta)*sin(\alpha)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha-\beta)=sin(\alpha+(-\beta))$
+\end_inset
+
+
+\hfill
+
+\begin_inset Quotes ald
+\end_inset
+
++
+\begin_inset Quotes ard
+\end_inset
+
+ entspricht 
+\begin_inset Quotes ald
+\end_inset
+
++ -
+\begin_inset Quotes ard
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+(-\beta))=cos(-\beta)*sin(\alpha)+cos(\alpha)*sin(-\beta)$
+\end_inset
+
+
+\hfill
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $sin(\alpha+(-\beta))=cos(\beta)sin(\alpha)-cos(\alpha)sin(\beta)$
+\end_inset
+
+
+\hfill
+Anwendung Satz 1 und 4
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $tan\tan s$
+\end_inset
+
+
+\begin_inset Formula $\sin$
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

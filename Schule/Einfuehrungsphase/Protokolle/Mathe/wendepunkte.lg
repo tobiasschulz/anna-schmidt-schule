@@ -1,0 +1,24 @@
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zpzccmry  font-weight: bold; font-style: italic;
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7m  font-weight: bold; font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: zptmcmr  font-style: italic;
+htfcss: zptmcm7t  font-weight: bold; font-style: italic;
+htfcss: ptmb8t   font-weight: bold;
+File: wendepunkte.html
+--- characters ---
+Font("ptmr8t","","10","120")
+Font("ptmb8t","","10","172")
+Font("zptmcm7t","","10","120")
+Font("zptmcm7t","","10","90")
+Font("zptmcm7m","","10","120")
+Font("zptmcm7m","","10","90")
+Font("zptmcm7y","","10","120")
+Font("zptmcm7y","","10","90")
+Font("ptmb8t","","10","144")
+Font("ptmb8t","","10","120")
+Font("ptmr8c","","10","120")

@@ -1,0 +1,260 @@
+#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass article
+\language english
+\inputencoding auto
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\spacing single
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Kunst
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="2">
+<features>
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" rightline="true" width="0">
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Kurs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Kunst
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Lehrer/Lehrerin
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Frau Schmidt
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Zeitraum
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Sommer 2008 bis Sommer 2009
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Klassenstufe
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+Einführungsphase
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+03.02.09
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename 2009-02-09_Interpretationsansaetze.png
+	width 80page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename 2009-02-09_Zeitplan zweites Halbjahr.png
+	width 80page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename 2009-02-09_Kunst Portfolio zweites Halbjahr.png
+	width 80page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+10.02.09
+\end_layout
+
+\begin_layout Subsection*
+Interpretationsansätze
+\end_layout
+
+\begin_layout Enumerate
+Strukturanalyse:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Kunstwerk und seine einzelnen Elemente
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stilanalyse:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+vergleicht verschiedene Kunstwerke
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Zeitstil
+\end_layout
+
+\begin_layout Enumerate
+Nationalstil
+\end_layout
+
+\begin_layout Enumerate
+Individualstil
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Ikonografische Interpretation:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+= die Lehre von den Bildinhalten (Symbole etc.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ikonologische Interpretation:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Zeitdimension: 
+\begin_inset Quotes eld
+\end_inset
+
+Was sagt mir heute das Bild?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Rezeptionsästhetische Interpretation:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Wahrnehmung des Kunstwerks
+\end_layout
+
+\end_body
+\end_document

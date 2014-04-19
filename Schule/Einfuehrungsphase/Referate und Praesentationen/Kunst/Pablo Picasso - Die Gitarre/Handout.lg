@@ -1,0 +1,13 @@
+htfcss: zptmcm7y  font-weight: bold; font-style: italic;
+htfcss: zpzccmry  font-weight: bold; font-style: italic;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+htfcss: ptmb8t   font-weight: bold;
+File: Handout.html
+--- characters ---
+Font("cmsy","10","10","100")
+Font("ptmr8t","","10","100")
+Font("ptmb8t","","10","144")
+Font("ptmb8t","","10","120")
+Font("ptmb8t","","10","100")
+Font("zptmcm7y","","10","100")

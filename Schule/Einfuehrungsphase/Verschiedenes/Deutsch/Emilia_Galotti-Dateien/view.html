@@ -1,0 +1,100 @@
+
+
+ns = (document.layers) ? true:false
+dom = (document.getElementById) ? true:false
+ie = (document.all) ? true:false
+
+// Hier muﬂ der adCode generiert werden
+varAdCode = "932Q30K02J02T";
+
+function makeUrl()
+{
+	a=document.getElementById('LibriSearchString').value;
+	if (a=="Suchbegriff" || a==" " || a=="" ) {
+		alert('... bitte Suchbegriff eingeben!')
+	}
+	else
+	{
+		affTracking = 'http://partners.webmasterplan.com/click.asp?site=2701&ref=278843&type=html&subid=&hnb=2&diurl=';
+		x='http://www.libri.de/shop/action/quickSearch?searchString=' + escape(a) + '&adCode=' +varAdCode + '&affilinet=1';
+		//location.href = x;
+		window.open(affTracking + escape(x), '2701_2');
+	}
+	return false;
+}
+
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		suche_button_over = newImage("http://195.189.236.150/banners/2701/images/suche_button-over.gif");
+		suche_button_down = newImage("http://195.189.236.150/banners/2701/images/suche_button-down.gif");
+		preloadFlag = true;
+	}
+}
+
+
+document.write('<style type=\"text/css\">');
+document.write('.LibriContainer {');
+document.write('position: relative;');
+document.write('width: 234px;');
+document.write('height: 60px;');
+document.write('background: url(http://195.189.236.150/banners/2701/images/background.gif) no-repeat;');
+document.write('}');
+document.write('.LibriContainerInfo {');
+document.write('position: absolute;');
+document.write('top: 5px;');
+document.write('left: 15px;');
+document.write('}');
+document.write('.LibriContainerInput {');
+document.write('position: absolute;');
+document.write('top: 38px;');
+document.write('left: 13px;');
+document.write('}');
+document.write('.LibriContainerFont {');
+document.write('font-family: Verdana,Arial,Helvetica;');
+document.write('font-size: 9px;');
+document.write('border : 1px solid silver;');
+document.write('width: 80px;');
+document.write('}');
+document.write('.LibriContainerButton {');
+document.write('position: absolute;');
+document.write('top: 39px;');
+document.write('left: 98px;');
+document.write('}');
+document.write('</style>');
+document.write('<div class=\"LibriContainer\">');
+document.write('<form method=\"get\" name=\"libriSuche\" onsubmit="return makeUrl();">');
+document.write('<div class=\"LibriContainerInfo\">');
+document.write('<img src=\"http://195.189.236.150/banners/2701/images/suche_typoani.gif\" width=\"138\" height=\"30\" alt=\"\" border=\"0\">');
+document.write('</div>');
+document.write('<div class=\"LibriContainerInput\">');
+document.write('<input type=\"text\" class=\"LibriContainerFont\" size=\"14\" id=\"LibriSearchString\" name=\"searchString\" value=\"Suchbegriff\" onclick="document.getElementById(\'LibriSearchString\').value=\'\';">');
+document.write('</div>');
+document.write('<div class=\"LibriContainerButton\">');
+document.write('<a onclick="makeUrl();" onmouseover=\"changeImages(\'suche_button\', \'http://195.189.236.150/banners/2701/images/suche_button-over.gif\'); return true;\" onmouseout=\"changeImages(\'suche_button\', \'http://195.189.236.150/banners/2701/images/suche_button.gif\'); return true;\" onmousedown=\"changeImages(\'suche_button\', \'http://195.189.236.150/banners/2701/images/suche_button-down.gif\'); return true;\" onmouseup=\"changeImages(\'suche_button\', \'http://195.189.236.150/banners/2701/images/suche_button-over.gif\'); return true;\">');
+document.write('<img name=\"suche_button\" src=\"http://195.189.236.150/banners/2701/images/suche_button.gif\" width=\"52\" height=\"21\" border=\"0\" alt=\"\">');
+document.write('</a><br>');
+document.write('</div>');
+document.write('</form>');
+document.write('</div>');
+
+
+preloadImages();
+document.getElementById('LibriSearchString').focus();

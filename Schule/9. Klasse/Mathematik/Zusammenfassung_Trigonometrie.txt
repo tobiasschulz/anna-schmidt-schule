@@ -1,0 +1,345 @@
+Trigonometrie
+
+1 Sätze
+
+1.1 Satz 1 bis 4
+
+\cos(\alpha)=\cos(-\alpha)
+
+\sin(90-\alpha)=\cos(\alpha)
+
+\cos(90+\alpha)=-\sin(\alpha)
+
+\sin(-\alpha)=-\sin(\alpha)
+
+
+
+
+1.2 Additionstheoreme (Reihenfolge=Beweise)
+
+1.2.1 \cos(\alpha-\beta)=\cos(\alpha)\cos(\beta)-\sin(\alpha)\sin(\beta)
+
+[Gleitobjekt Abbildung:
+[Sinnlos!!! 
+<Grafikdatei: /home/tobias/Dokumente/Schule/9. Klasse/Mathematik/beweis-cos-x-minus-y_graph-1.png>
+]
+]
+
+P_{1}AP_{2}\: rechtwinklig
+
+P_{2}A=x_{1}-x_{2}
+
+P_{1}A=y_{1}-y_{2}
+
+c^{2}=(y_{1}-y_{2})^{2}+(x_{1}-x_{2})^{2}
+
+c^{2}=y_{1}^{2}-2y_{1}y_{2}+y_{2}^{2}\;+\; x_{1}^{2}-2x_{1}x_{2}+x_{2}^{2}
+
+c^{2}=x_{1}^{2}+y_{1}^{2}+x_{2}^{2}+y_{2}^{2}\;-\;2*(x_{1}x_{2}+y_{1}y_{2})
+
+c^{2}=1+1\;-\;2*(x_{1}x_{2}+y_{1}y_{2})
+
+[Gleitobjekt Abbildung:
+[Sinnlos!!! 
+<Grafikdatei: /home/tobias/Dokumente/Schule/9. Klasse/Mathematik/beweis-cos-x-minus-y_graph-2.png>
+]
+]
+
+c^{2}=\overline{P_{1}A}^{2}+\overline{P_{2}A}^{2}
+
+Definition: \varphi=\alpha-\beta
+
+c^{2}=\sin^{2}(\varphi)+(1-\cos(\varphi))^{2}
+
+2. Binomische Formel: 
+
+c^{2}=\sin^{2}(\varphi)+1-2\cos(\varphi)+\cos^{2}(\varphi)
+
+c^{2}=2-2\cos(\varphi)
+
+Ergebnis:
+
+c^{2}=2-2\cos(\alpha-\beta)=2-2(x_{1}x_{2}+y_{1}y_{2}) | - 2 | : 
+(-2)
+
+c^{2}=\cos(\alpha-\beta)=x_{1}x_{2}+y_{1}y_{2}
+
+
+
+
+1.2.2 \cos(\alpha+\beta)=\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)
+
+\cos(\alpha+\beta)=\cos(\alpha-(-\beta))     »+« entspricht »- -«
+
+\cos(\alpha+\beta)=\cos(\alpha)\cos(-\beta)+\sin(\alpha)\sin(-\beta)
+     Anwendung von Satz aus 1.2.1
+
+\cos(\alpha+\beta)=\cos(\alpha)\cos(\beta)-\sin(\alpha)\sin(\beta)
+     Anwendung von Satz 1 und 4
+
+1.2.3 \sin(\alpha+\beta)=\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)
+
+Satz 3:
+
+\cos(\varphi+90°)=-\sin(\varphi)     | * (-1)
+
+-\cos(\varphi+90°)=\sin(\varphi)
+
+
+
+\varphi=\alpha+\beta     Definition (wegen Übersicht)
+
+\sin(\alpha+\beta)=-\cos(\alpha+\beta+90°)
+
+\sin(\alpha+\beta)=-\cos(\alpha)\cos(\beta+90°)+\sin(\alpha)\sin(\beta+90°)
+
+\sin(\alpha+\beta)=-\cos(\alpha)*-\sin(\beta)+\sin(\alpha)\cos(-\beta)
+     Anwendung von Satz 2 und 3
+
+\sin(\alpha+\beta)=\cos(\alpha)\sin(\beta)+\sin(\alpha)\cos(\beta)
+     Anwendung von Satz 1
+
+1.2.4 \sin(\alpha-\beta)=\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)
+
+\sin(\alpha-\beta)=\sin(\alpha+(-\beta))     »+« entspricht »+ -«
+
+\sin(\alpha+(-\beta))=\cos(-\beta)*\sin(\alpha)+\cos(\alpha)*\sin(-\beta)
+     
+
+\sin(\alpha+(-\beta))=\cos(\beta)\sin(\alpha)-\cos(\alpha)\sin(\beta)
+     Anwendung Satz 1 und 4
+
+
+
+
+1.2.5 \tan(\alpha+\beta)=\dfrac{\tan(\alpha)+\tan(\beta)}{1-\tan(\alpha)*\tan(\beta)}
+
+\tan(\alpha+\beta)=\dfrac{\sin(\alpha+\beta)}{\cos(\alpha+\beta)}     
+\tan entspricht \dfrac{\sin}{\cos}
+
+Anwendung der bisher bewiesenen Sätze:
+
+\tan(\alpha+\beta)=\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}
+     
+
+Nun wird im Zähler und im Nenner durch \cos(\alpha)*\cos(\beta) 
+dividiert, da in dem zu beweisenden Term im Nenner ein 1- steht.
+
+\tan(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     Division im Zähler und im Nenner
+
+\tan(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}+\dfrac{\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)}{\cos(\alpha)*\cos(\beta)}-\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     
+
+\tan(\alpha+\beta)=\dfrac{\dfrac{\sin(\beta)}{\cos(\beta)}+\dfrac{\sin(\alpha)}{\cos(\alpha)}}{1-\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     Kürzen
+
+\tan(\alpha+\beta)=\dfrac{\tan(\beta)+\tan(\alpha)}{1-\tan(\beta)*\tan(\alpha)}
+     \dfrac{\sin}{\cos} entspricht \tan
+
+
+
+
+1.2.6 \tan(\alpha-\beta)=\dfrac{\tan(\alpha)+\tan(\beta)}{1+\tan(\alpha)*\tan(\beta)}
+
+\tan(\alpha-\beta)=\dfrac{\sin(\alpha-\beta)}{\cos(\alpha-\beta)}     
+\tan entspricht \dfrac{\sin}{\cos}
+
+Anwendung der bisher bewiesenen Sätze:
+
+\tan(\alpha-\beta)=\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}
+     
+
+Nun wird im Zähler und im Nenner durch \cos(\alpha)*\cos(\beta) 
+dividiert, da in dem zu beweisenden Term im Nenner ein 1+ steht.
+
+\tan(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     Division im Zähler und im Nenner
+
+\tan(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}-\dfrac{\cos(\beta)*\sin(\alpha)}{\cos(\alpha)*\cos(\beta)}}{\dfrac{\cos(\alpha)*\cos(\beta)}{\cos(\alpha)*\cos(\beta)}+\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     
+
+\tan(\alpha-\beta)=\dfrac{\dfrac{\sin(\beta)}{\cos(\beta)}-\dfrac{\sin(\alpha)}{\cos(\alpha)}}{1+\dfrac{\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\cos(\beta)}}
+     Kürzen
+
+\tan(\alpha-\beta)=\dfrac{\tan(\beta)+\tan(\alpha)}{1+\tan(\beta)*\tan(\alpha)}
+     \dfrac{\sin}{\cos} entspricht \tan
+
+
+
+
+1.2.7 \cot(\alpha+\beta)=\dfrac{\cot(\alpha)*\cot(\beta)-1}{\cot(\beta)-\cot(\alpha)}
+
+\cot(\alpha+\beta)=\dfrac{\cos(\alpha+\beta)}{\sin(\alpha+\beta)}     
+\cot entspricht \dfrac{\cos}{\sin}
+
+Anwendung der bisher bewiesenen Sätze:
+
+\cot(\alpha+\beta)=\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}
+     
+
+Nun wird im Zähler und im Nenner durch \sin(\alpha)*\sin(\beta) 
+dividiert, da in dem zu beweisenden Term im Zähler ein -1 steht.
+
+\cot(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)-\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)+\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}
+     Division im Zähler und im Nenner
+
+\cot(\alpha+\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)}{\sin(\alpha)*\sin(\beta)}-\dfrac{\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}+\dfrac{\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}
+     
+
+\cot(\alpha+\beta)=\dfrac{\cot(\alpha)*\cot(\beta)-1}{\cot(\alpha)+\cot(\beta)}
+     Kürzen
+
+
+
+
+1.2.8 \cot(\alpha-\beta)=\dfrac{\cot(\alpha)*\cot(\beta)+1}{\cot(\beta)-\cot(\alpha)}
+
+\cot(\alpha-\beta)=\dfrac{\cos(\alpha-\beta)}{\sin(\alpha-\beta)}     
+\cot entspricht \dfrac{\cos}{\sin}
+
+Anwendung der bisher bewiesenen Sätze:
+
+\cot(\alpha-\beta)=\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}
+     
+
+Nun wird im Zähler und im Nenner durch \sin(\alpha)*\sin(\beta) 
+dividiert, da in dem zu beweisenden Term im Zähler ein +1 steht.
+
+\cot(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)+\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)-\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}
+     Division im Zähler und im Nenner
+
+\cot(\alpha-\beta)=\dfrac{\dfrac{\cos(\alpha)*\cos(\beta)}{\sin(\alpha)*\sin(\beta)}+\dfrac{\sin(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}}{\dfrac{\cos(\alpha)*\sin(\beta)}{\sin(\alpha)*\sin(\beta)}-\dfrac{\cos(\beta)*\sin(\alpha)}{\sin(\alpha)*\sin(\beta)}}
+     
+
+\cot(\alpha-\beta)=\dfrac{\cot(\alpha)*\cot(\beta)+1}{\cot(\alpha)-\cot(\beta)}
+     Kürzen
+
+
+
+
+1.2.9 \sin(2\alpha)=2\sin(\alpha)\cos(\alpha)
+
+\sin(2\alpha)=\sin(\alpha+\alpha)=\sin(\alpha)\cos(\alpha)+\cos(\alpha)\sin(\alpha)
+
+\sin(2\alpha)=2*\sin(\alpha)\cos(\alpha)
+
+1.2.10 \cos(2\alpha)=1-2\sin^{2}(\alpha)
+
+\cos(2\alpha)=\cos(\alpha+\alpha)=\cos(\alpha)\cos(\alpha)-\sin(\alpha)\sin(\alpha)
+
+\cos(2\alpha)=\cos^{2}(\alpha)-\sin^{2}(\alpha)
+
+Addition von: +\sin^{2}(\alpha)-\sin^{2}(\alpha)=0
+
+\cos(2\alpha)=\cos^{2}(\alpha)-\sin^{2}(\alpha)+\sin^{2}(\alpha)-\sin^{2}(\alpha)
+
+\rightarrow\cos^{2}(\alpha)-\sin^{2}(\alpha)+\sin^{2}(\alpha)=1
+
+\Rightarrow\cos(2\alpha)=1-2\sin^{2}(\alpha)
+
+1.2.11 \left|\sin\dfrac{\alpha}{2}\right|=\sqrt{\dfrac{1-\cos(\alpha)}{2}}
+
+Gegeben: \cos(2\alpha)=1-2\sin^{2}(\alpha)
+
+\alpha=2*\dfrac{\alpha}{2}
+
+\cos(2\dfrac{\alpha}{2})=1-2\sin^{2}(\dfrac{\alpha}{2})
+
+\cos(\alpha)=1-2\sin^{2}(\dfrac{\alpha}{2})     |-1
+
+\cos(\alpha)-1=-2\sin^{2}(\dfrac{\alpha}{2})     |/(-2)
+
+\dfrac{\cos(\alpha)-1}{-2}=\sin^{2}(\dfrac{\alpha}{2})     
+Umformen
+
+\dfrac{1-\cos(\alpha)}{2}=\sin^{2}(\dfrac{\alpha}{2})     
+|Quadratwurzel
+
+\sqrt{\dfrac{1-\cos(\alpha)}{2}}=\left|\sin(\dfrac{\alpha}{2})\right|
+     |Quadratwurzel
+
+
+
+
+1.2.12 \left|\cos\dfrac{\alpha}{2}\right|=\sqrt{\dfrac{1+\cos(\alpha)}{2}}
+
+Gegeben: \cos(2\alpha)=1-2\sin^{2}(\alpha)
+
+\alpha=2*\dfrac{\alpha}{2}
+
+\cos(2\dfrac{\alpha}{2})=1-2\sin^{2}(\dfrac{\alpha}{2})
+
+
+
+
+
+Ersetzen der »1«, weil:
+
+1=\cos^{2}(\beta)+\sin^{2}(\beta)
+
+\cos(\alpha)=\cos^{2}(\beta)+\sin^{2}(\beta)-2\sin^{2}(\dfrac{\alpha}{2})
+     
+
+\cos(\alpha)=\cos^{2}(\beta)-\sin^{2}(\dfrac{\alpha}{2})     
+Weil: x-2x=-x
+
+Anwendung der zuletzt bewiesenen Formel:
+
+\cos(\alpha)=\cos^{2}(\beta)-\dfrac{1-\cos(\alpha)}{2}     
+
+Quadrat alleine rechts, weil im zu beweisenden Term eine 
+Quadratwurzel vorkommt:
+
+\cos(\alpha)+\dfrac{1-\cos(\alpha)}{2}=\cos^{2}(\beta)     
+
+Gleicher Nenner:
+
+\dfrac{2\cos(\alpha)+1-\cos(\alpha)}{2}=\cos^{2}(\beta)     
+
+Zusammenfassen:
+
+\dfrac{1+\cos(\alpha)}{2}=\cos^{2}(\beta)     
+
+Wurzel ziehen:
+
+\sqrt{\dfrac{1+\cos(\alpha)}{2}}=\cos(\beta)     
+
+
+
+
+1.2.13 \sin(3\alpha)=3\sin(\alpha)-4\sin^{3}(\alpha)
+
+\sin(3\alpha)=\sin(2\alpha+\alpha)
+
+=\cos(2\alpha)\sin(\alpha)+\cos(\alpha)\sin(2\alpha)
+
+Vertauschen, kommutativ:
+
+=\cos(\alpha)\sin(2\alpha)+\cos(2\alpha)\sin(\alpha)
+
+Anwendung der letzten beiden Formeln:
+
+=\cos(\alpha)*[2\sin(\alpha)\cos(\alpha)]+\sin(\alpha)*[1-2\sin^{2}(\alpha)]
+
+Umformen:
+
+=2\sin(\alpha)\cos^{2}(\alpha)+\sin(\alpha)-2\sin^{3}(\alpha)
+
+Ausklammern: (Hintergrund: Es darf kein »\cos« vorkommen, 
+nächster Schritt...)
+
+=2\sin(\alpha)\:*\:[\:\cos^{2}(\alpha)\:-\:\sin^{2}(\alpha)\:]\:+\sin(\alpha)
+
+Anwenden: -y=y-2y
+
+=2\sin(\alpha)\:*\:[\:\cos^{2}(\alpha)\:+\:\sin^{2}(\alpha)\:-\:2\sin^{2}(\alpha)\:]\:+\sin(\alpha)
+
+Anwenden: 1=\cos^{2}(\beta)+\sin^{2}(\beta)
+
+=2\sin(\alpha)\:*\:[\:1\:-\:2\sin^{2}(\alpha)\:]\:+\sin(\alpha)
+
+=2\sin(\alpha)*1\:-\:4\sin^{3}(\alpha)\:+\sin(\alpha)
+
+=3\sin(\alpha)*1\:-\:4\sin^{3}(\alpha)
+

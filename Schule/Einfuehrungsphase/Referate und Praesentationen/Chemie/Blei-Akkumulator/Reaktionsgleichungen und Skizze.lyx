@@ -1,0 +1,184 @@
+#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass article
+\language english
+\inputencoding auto
+\font_roman times
+\font_sans default
+\font_typewriter default
+\font_default_family rmdefault
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 12
+\spacing single
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Chemie
+\end_layout
+
+\begin_layout Section*
+Der Blei-Akkumulator
+\end_layout
+
+\begin_layout Subsection*
+Entladevorgang
+\end_layout
+
+\begin_layout Standard
+Negativer Pol (Anode, Oxidation):
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+Pb+SO_{4}^{2-}\rightarrow PbSO_{4}+2e^{-}\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Positiver Pol (Kathode, Reduktion):
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+PbO_{2}+SO_{4}^{2-}+4H_{3}O^{+}+2e^{-}\rightarrow PbSO_{4}+6H_{2}O\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gesamtreaktion:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+Pb+PbO_{2}+2H_{2}SO_{4}\rightarrow2PbSO_{4}+2H_{2}O\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Endladen.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\newpage
+
+\end_layout
+
+\begin_layout Subsection*
+Ladevorgang
+\end_layout
+
+\begin_layout Standard
+Negativer Pol (Anode, Oxidation):
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+PbSO_{4}+2e^{-}\rightarrow Pb+SO_{4}^{2-}\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Positiver Pol (Kathode, Reduktion):
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+PbSO_{4}+6H_{2}O\rightarrow PbO_{2}+SO_{4}^{2-}+4H_{3}O^{+}+2e^{-}\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gesamtreaktion:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+2PbSO_{4}+2H_{2}O\rightarrow Pb+PbO_{2}+2H_{2}SO_{4}\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Laden.png
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

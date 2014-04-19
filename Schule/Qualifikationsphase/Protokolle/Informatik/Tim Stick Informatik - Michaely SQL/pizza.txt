@@ -1,0 +1,9 @@
+- Pizzabezeichung, Nummer, Preis
+- Zutaten
+- Kundennummer, Vorname, Nachname, Straﬂe, Nr., PLZ, Ort, Telnr., E-Mail
+- Zulieferer: Name, Nr., Adresse
+- Rohmaterialien: Name, Nr.
+- Bestellung (als Beziehung): Bestellnr., Kundennr., Warennr., Datum, Zeit
+- Bestelldetails ?
+- Personal: Nr., Vorname, Nachname, Adresse, Lohn, Funktionsnr.
+- Personalfunktion: Nr., Bezeichnung

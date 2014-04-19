@@ -1,0 +1,23 @@
+<script type="text/javascript">
+function einblenden() {
+	document.getElementById('LayerID').innerHTML = '<p>neuer Inhalt</p>';
+	document.all.LayerID.innerHTML = '<p>neuer Inhalt</p>';
+
+	document.getElementById('LayerID').blur();
+	document.all.LayerID.blur();
+}
+function ausblenden() {
+	document.getElementById('LayerID').innerHTML = '';
+	document.all.LayerID.innerHTML = '';
+
+	document.getElementById('LayerID').blur();
+	document.all.LayerID.blur();
+}
+</script>
+
+<input type="radio" name="ABC" onFocus="einblenden(); this.blur();" onchange="einblenden(); this.blur();">X</input>
+<input type="radio" name="ABC" onFocus="ausblenden(); this.blur();" onchange="ausblenden(); this.blur();">Y</input>
+
+<div id="LayerID" style="border: 1px solid blue;">hallo</div>
+Text
+

@@ -1,0 +1,14 @@
+SQLite version 3.6.22
+Enter ".help" for instructions
+Enter SQL statements terminated with a ";"
+
+sqlite> select begin case if 1 < 2 then "a" else "b" end;
+a
+sqlite> select begin case if 3 < 2 then "a" else "b" end;
+b
+sqlite> select case when 1 < 2 then "a" else "b" end;
+Error: near "case": syntax error
+sqlite> select begin case when 1 < 2 then "a" else "b" end;
+Error: near "case": syntax error
+sqlite> 
+

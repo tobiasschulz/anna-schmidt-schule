@@ -1,0 +1,13 @@
+Berichtigung der Klausur:
+
+1) select saison, fahrerweltmeister from formel_1 where fahrterweltmeister like '%Schumacher%'
+6-1) select saison, fahrerweltmeister from formel_1 where fahrerweltmeister = 'Ayrton Senna' or fahrerweltmeister = 'Alain Prost' or fahrerweltmeister = 'Damon Hill'
+6-2) select saison, fahrerweltmeister from formel_1 where fahrerweltmeister in ('Ayrton Senna', 'Alain Prost', 'Damon Hill')
+9) select fahrerweltmeister, wm_punkte, (wm_punkte/160.0)*100 as 'prozentuale punktausbeute' from formel_1
+13) select count(*) from formel_1 where fahrerweltmeister like '%Schumacher%'
+14) select fahrerweltmeister from formel_1 where wm_punkte = (select min(wm_punkte) from formel_1)
+25) select region, sum(einwohner) from cia group by region having sum(einwohner) > 1E08
+26) select region, sum(einwohner) from cia where einwohner > 1E08 group by region
+27) select region, sum(einwohner) form cia where region like '%amerika%' group by region having sum(einwohner) > 1E08
+
+

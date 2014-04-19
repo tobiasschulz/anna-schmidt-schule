@@ -1,0 +1,1409 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+
+*! I can't find file `#LyX'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\lyxformat'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_document'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_header'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\textclass'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\language'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\inputencoding'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_roman'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_sans'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_typewriter'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_default_family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_sc'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_osf'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_sf_scale'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\font_tt_scale'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\graphics'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\paperfontsize'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\spacing'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\papersize'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\use_geometry'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\use_amsmath'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\use_esint'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\cite_engine'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\use_bibtopic'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\paperorientation'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\leftmargin'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\topmargin'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\rightmargin'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bottommargin'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\headheight'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\headsep'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\footskip'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\secnumdepth'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\tocdepth'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\paragraph_separation'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\defskip'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\quotes_language'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\papercolumns'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\papersides'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\paperpagestyle'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\tracking_changes'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\output_changes'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\author'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\author'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_header'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_header'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_body'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_body'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Physik'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Seite'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `5)'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Wie'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `in'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Gegeben:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Rechnung:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Verkürzung'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Seite'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `7)'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Gegeben:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Gesucht:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Rechnung:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Schiefe'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `	filename'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `	filename'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `(=zeta)'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `(=epsilon)'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Komponentenzerlegung:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Seite'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `4)'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Gegeben:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\family'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\series'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\shape'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\size'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\emph'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\bar'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\noun'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\color'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Gesucht:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `Rechung:'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\begin_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_inset'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_layout'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_body'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: ! I can't find file `\end_document'.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+Please type another input file name: 
+! Emergency stop.
+<*> #LyX 
+         1.5.6 created this file. For more info see http://www.lyx.org/
+No pages of output.
+Transcript written on texput.log.
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+
+*
+! Emergency stop.
+<*> ...[tex4ht]}}}\makeatother\HCode .a.b.c.\input
+                                                  
+No pages of output.
+Transcript written on texput.log.
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6)
+ %&-line parsing enabled.
+entering extended mode
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+
+*
+! Emergency stop.
+<*> ...[tex4ht]}}}\makeatother\HCode .a.b.c.\input
+                                                  
+No pages of output.
+Transcript written on texput.log.
+----------------------------
+tex4ht.c (2007-11-07-16:08 kpathsea)
+tex4ht -f/ 
+  -i/usr/share/texmf/tex4ht/ht-fonts/ 
+----------------------------
+t4ht.c (2008-02-25-18:56 kpathsea)
+t4ht -f/ 
+(/usr/share/texmf/tex4ht/tex4ht.env)

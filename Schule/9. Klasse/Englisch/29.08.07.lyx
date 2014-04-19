@@ -1,0 +1,534 @@
+#LyX 1.5.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass scrartcl
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize default
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Section*
+\begin_inset Marginal
+status open
+
+\begin_layout Standard
+29.08.07
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Problems in English
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="4">
+<features>
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" width="0">
+<column alignment="center" valignment="top" leftline="true" width="0">
+<row bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+homophones
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+synonyms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+homonyms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+homographs
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+sum - some
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+big/large/tall/great
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+bank - bank
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+desert(n) - desert(v)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+know - no
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+ground/floor/bottom
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+lie(n) - lie(v)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+there - their
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+right - write
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Alone abroad
+\end_layout
+
+\begin_layout Standard
+Find out about:
+\end_layout
+
+\begin_layout Enumerate
+Lena´s difficults in the beginning
+\end_layout
+
+\begin_layout Enumerate
+things that were new to her
+\end_layout
+
+\begin_layout Enumerate
+things Lena likes about school life
+\end_layout
+
+\begin_layout Enumerate
+how Lena gets on with the people
+\end_layout
+
+\begin_layout Enumerate
+Lena´s feelings about her year in Melbourne
+\end_layout
+
+\begin_layout Paragraph*
+1)
+\end_layout
+
+\begin_layout Itemize
+she didn´t understand the people
+\end_layout
+
+\begin_layout Itemize
+they started laughing and she didn´t kew why
+\end_layout
+
+\begin_layout Paragraph*
+2)
+\end_layout
+
+\begin_layout Itemize
+school uniforms
+\end_layout
+
+\begin_layout Itemize
+fewer subjects
+\end_layout
+
+\begin_layout Itemize
+school´s swipe cards
+\end_layout
+
+\begin_layout Itemize
+Australians are more easy-going
+\end_layout
+
+\begin_layout Paragraph*
+3)
+\end_layout
+
+\begin_layout Itemize
+only seven subjects
+\end_layout
+
+\begin_layout Itemize
+students can choose what they do
+\end_layout
+
+\begin_layout Itemize
+out-of-uniform days
+\end_layout
+
+\begin_layout Paragraph*
+4)
+\end_layout
+
+\begin_layout Itemize
+people: less serious
+\end_layout
+
+\begin_layout Itemize
+she now understands nearly everything
+\end_layout
+
+\begin_layout Paragraph*
+5)
+\end_layout
+
+\begin_layout Itemize
+she´s more self-confident
+\end_layout
+
+\begin_layout Section*
+Page 9
+\end_layout
+
+\begin_layout Subsection*
+Working with the text
+\end_layout
+
+\begin_layout Subsubsection*
+b)
+\end_layout
+
+\begin_layout Itemize
+after five months the could speak English nearly perfectly
+\end_layout
+
+\begin_layout Itemize
+English is the world language so it´s important to learn it
+\end_layout
+
+\begin_layout Itemize
+at the beginning it´s difficult to understand
+\end_layout
+
+\begin_layout Itemize
+it´s hard to understand their sense of humour
+\end_layout
+
+\begin_layout Itemize
+they speak faster
+\end_layout
+
+\begin_layout Itemize
+their english is different from our english we speak at school
+\end_layout
+
+\begin_layout Itemize
+there are many dialects
+\end_layout
+
+\begin_layout Itemize
+you´ve got scruples to talk to people from other countries in another language
+ in the beginning
+\end_layout
+
+\begin_layout Subsection*
+Exercise 2
+\end_layout
+
+\begin_layout Subsubsection*
+a)
+\end_layout
+
+\begin_layout Enumerate
+-
+\end_layout
+
+\begin_layout Enumerate
+The school uniform she had to wear was blue and red
+\end_layout
+
+\begin_layout Enumerate
+At school there were many nice kids whose families came from Asia
+\end_layout
+
+\begin_layout Enumerate
+Lena´s host family had an old school bus they used for camping
+\end_layout
+
+\begin_layout Enumerate
+Mark, who came round every weekend, was an old friend of the family
+\end_layout
+
+\begin_layout Subsection*
+Exercise 3
+\end_layout
+
+\begin_layout Subsection*
+a)
+\end_layout
+
+\begin_layout Enumerate
+outback
+\end_layout
+
+\begin_layout Enumerate
+campus
+\end_layout
+
+\begin_layout Enumerate
+bushwalk
+\end_layout
+
+\begin_layout Enumerate
+outskirts
+\end_layout
+
+\begin_layout Enumerate
+assignment
+\end_layout
+
+\begin_layout Enumerate
+swipe card
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="1">
+<features>
+<column alignment="center" valignment="top" leftline="true" rightline="true" width="0">
+<row topline="true" bottomline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\color blue
+Homework:
+\end_layout
+
+\begin_layout Standard
+
+\color blue
+P.
+ 110 ex.
+ G1
+\end_layout
+
+\begin_layout Standard
+
+\color blue
+P.
+ 9 ex.
+ 3 b)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Page 10 Exercise 1
+\end_layout
+
+\begin_layout Subsubsection*
+a)
+\end_layout
+
+\begin_layout Enumerate
+It can show that English is clearly asking for trouble because 
+\begin_inset Quotes eld
+\end_inset
+
+fly
+\begin_inset Quotes erd
+\end_inset
+
+ means either an insect, a way of travelling or an important part of man´s
+ clothes.
+\end_layout
+
+\begin_layout Enumerate
+There are English messages on products from countries where English isn´t
+ the main language because English had become one of the world´s greatest
+ industries.
+\end_layout
+
+\end_body
+\end_document
